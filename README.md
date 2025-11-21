@@ -1,3 +1,4 @@
+
 # Singularity  
 > Projeto Alura 🎓 – “Base de Conhecimento Científico”
 
@@ -36,3 +37,20 @@ Imagine uma biblioteca digital de artigos e conteúdos científicos — você di
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/CristianPopovici14/Singularity.git
+````
+
+2. Navegue até a pasta:
+
+   ```bash
+   cd Singularity
+   ```
+3. Abra `index.html` em seu navegador de preferência.
+4. Para explorar a busca, vá para `search.html`.
+5. Edite o código, adicione conteúdos na base de dados local (em `search.js` ou adapte para JSON externo) e experimente novas funcionalidades.
+
+## 🤝 Agradecimentos
+
+* À Alura, por disponibilizar o curso e estimular o desenvolvimento de projetos práticos.
+* A todos que contribuírem e utilizarem este projeto como base de aprendizado.
+* Que o Singularity possa ser o início de uma jornada de descobertas e conhecimento.
+
