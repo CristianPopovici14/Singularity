@@ -37,7 +37,7 @@ Imagine uma biblioteca digital de artigos e conteúdos científicos — você di
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/CristianPopovici14/Singularity.git
-````
+   ```
 
 2. Navegue até a pasta:
 
