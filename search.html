@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Singularity Search</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="search-style.css">
+</head>
+
+<body class="min-h-screen flex flex-col">
+  <video class="bg-video" autoplay muted loop playsinline>
+    <source src="./media/ascii_blackhole.mp4" type="video/mp4" />
+  </video>
+
+  <header>
+    <div class="flex items-center gap-6 px-8 py-4">
+      <div class="flex items-center gap-3">
+        <a href="index.html" class="flex items-center">
+          <img src="./media/favicon2.png" class="w-10 h-10 rounded-full mr-2" alt="Logo">
+          <h1 class="logo-text text-2xl">Singularity</h1>
+        </a>
+      </div>
+      <div class="flex-1 max-w-2xl">
+        <div class="search-box rounded-full px-6 py-3 flex items-center gap-4">
+          <button onclick="performSearch()" class="hover:opacity-70 transition-opacity">
+            <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+          </button>
+          <input type="text" id="searchInput" class="flex-1 bg-transparent outline-none text-base"
+            placeholder="Ciência disponível para todos" />
+        </div>
+      </div>
+    </div>
+  </header>
+  <div id="stats" class="z-10 px-8 py-3 text-sm text-gray-400"></div>
+
+  <main class="flex-1 z-10 px-8 py-20">
+    <div id="results" class="max-w-3xl space-y-6"></div>
+  </main>
+
+  <footer class="footer-section z-10">
+    <div class="flex flex-col md:flex-row justify-between px-8 py-3 text-sm gap-4">
+      <div class="flex gap-6">
+        <a href="https://github.com/CristianPopovici14" target="_blank" class="hover:underline">Meu GitHub</a>
+        <a href="https://cristian-popovici.web.app/" target="_blank" class="hover:underline">Meu Portfólio</a>
+        <a href="https://github.com/CristianPopovici14/baseConhecimentoCientífico" class="hover:underline">Repositório</a>
+      </div>
+    </div>
+  </footer>
+  <script src="./search.js"></script>
+</body>
+
+</html>
