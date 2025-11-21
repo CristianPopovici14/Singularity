@@ -1,2 +1,2 @@
-# baseConhecimentoCient-fico
+# baseConhecimentoCientífico
 Projeto Alura
