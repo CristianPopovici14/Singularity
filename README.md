@@ -19,6 +19,14 @@ Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organi
 ### Página de descrição do projeto
 <img width="1909" height="1040" alt="Página de descrição do projeto" src="https://github.com/user-attachments/assets/4055a29f-4ad6-437f-a0fd-a031203d3a42" />
 
+### Versão Mobile
+<div style="display {inline}">
+  <img width="411" height="884" alt="Página Inical - Mobile" src="https://github.com/user-attachments/assets/982df7db-622d-4b59-8c31-88f5571dad6c" />
+  <img width="411" height="884" alt="Listagem de projetos - Mobile" src="https://github.com/user-attachments/assets/89667ed2-dfe4-45f2-a124-4b2f878c760b" />
+  <img width="411" height="884" alt="Página de descrição do projeto - Mobile" src="https://github.com/user-attachments/assets/bb651ed1-f21c-4b56-8805-a2673ac9803d" />
+
+</div>
+
 ---
 
 ## 🧠 **Funcionalidades**
