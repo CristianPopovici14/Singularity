@@ -28,36 +28,11 @@ Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organi
 
 ---
 
-## 🧠 **Funcionalidades**
-
-### 🔎 **Busca via Texto ou por Filtros**
-
-Encontre projetos em segundos com uma busca poderosa e fluida.
-
-### 🎨 **Design Moderno e Imersivo**
-
-Interface bonita, polida e pensada para uma experiência agradável em qualquer dispositivo.
-
-### 📚 **Base de Conhecimento Expansível**
-
-Desde sistemas operacionais de baixo nível até renderizadores avançados — a lista cresce constantemente.
-
-### 📱 **Totalmente Responsivo**
-
-Funciona perfeitamente em desktops, tablets e smartphones.
-
-### ✨ **Experiência pensada para desenvolvedores**
-
-Cada projeto incluído traz detalhes, contexto e motivação para inspirar suas futuras criações.
-
----
-
 ## 🛠️ **Tecnologias Utilizadas**
 
 * **HTML / CSS / JavaScript**
-* **AluraGPT / Gemini / Ferramentas da Imersão 10**
-* **Componentização e boas práticas modernas**
-* **Arquitetura simples e extensível**
+* **Gemini / ChatGPT / Claude e outras ferramentas de IA**
+* **TailwindCSS para facilitar a estilização**
 
 ---
 
