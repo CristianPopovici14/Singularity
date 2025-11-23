@@ -22,7 +22,6 @@ pointer-events: none;
 transform: translateZ(0);
 }
 
-/* Header fixo no topo */
 header {
 position: fixed;
 top: 0;
@@ -34,10 +33,10 @@ backdrop-filter: blur(12px);
 background: rgba(0, 0, 0, 0.2);
 }
 
-/* Espaçamento para compensar o header fixo */
+
 .content-wrapper {
-padding-top: 80px; /* Ajuste conforme a altura do seu header */
-padding-bottom: 60px; /* Ajuste conforme a altura do footer */
+padding-top: 80px;
+padding-bottom: 60px;
 min-height: 100vh;
 }
 
