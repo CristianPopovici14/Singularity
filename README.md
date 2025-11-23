@@ -1,20 +1,23 @@
-<img width="977" height="188" alt="Screenshot From 2025-11-23 20-14-12" src="https://github.com/user-attachments/assets/2e8d1b27-4a89-4af6-93a4-d9acfdfae4b4" />
+<img width="977" height="188" alt="Singularity" src="https://github.com/user-attachments/assets/2e8d1b27-4a89-4af6-93a4-d9acfdfae4b4" />
 
 ### *Uma base de conhecimento de projetos extraordinários, criada na 10ª Imersão Alura*
-> Projeto Alura 🎓 – “Base de Conhecimento de Projetos Extraordinários”
+> Projeto Alura 🎓 – “Um Mecanismo de Busca de Projetos”
 
-Bem-vindo ao **Singularity**, um mecanismo de busca dedicado a projetos de programação que ultrapassam limites — de **sistemas operacionais** a **renderizadores 3D**, passando por **servidores web**, engines, ferramentas avançadas e muito mais.
-
-Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organizar e tornar acessíveis alguns dos projetos mais inspiradores já criados por desenvolvedores ao redor do mundo.
+Bem-vindo ao **Singularity**, um mecanismo de busca dedicado a projetos de programação que vai desde **sistemas operacionais** e **renderizadores 3D**, incluindo **servidores web**, engines, ferramentas avançadas e muito mais.
+Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organizar e tornar acessíveis uns dos melhores projetos para desenvolver e para aprender.
 
 ---
 
 ## 🌟 **Visão Geral**
 
-O **Singularity** é uma base de conhecimento totalmente responsiva, elegante e intuitiva, que funciona como um **search engine de projetos de programação**.
-Basta digitar o que procura — uma tecnologia, um tipo de projeto, um tema — e a aplicação exibe resultados organizados, detalhados e filtrados por dificuldade.
+### Página Inical
+<img width="1909" height="1040" alt="Página Inical" src="https://github.com/user-attachments/assets/0d35c9a5-e0c6-4379-b0bf-5a76f715e976" />
 
-Se você está estudando, pesquisando ou apenas explorando ideias para criar algo grandioso, aqui é o lugar certo.
+### Listagem de projetos
+<img width="1909" height="1040" alt="Listagem de projetos" src="https://github.com/user-attachments/assets/f3689a6c-946b-43ad-a36d-b817b1ca029b" />
+
+### Página de descrição do projeto
+<img width="1909" height="1040" alt="Página de descrição do projeto" src="https://github.com/user-attachments/assets/4055a29f-4ad6-437f-a0fd-a031203d3a42" />
 
 ---
 
