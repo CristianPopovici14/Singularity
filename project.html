@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!--
+  project.html
+  ------------
+  Shows a single project's details and an embedded preview (if available).
+
+  Notes:
+  - `project.js` reads the `id` query parameter and fetches `projects.json`.
+  - `embedings.js` renders a preview inside `#embed-box`.
+-->
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Singularity – Projeto</title>
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="./media/favicon2.png" type="image/x-icon">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="project-style.css">
+</head>
+
+<body class="min-h-screen flex flex-col">
+
+  <video class="bg-video" autoplay muted loop playsinline>
+    <source src="./media/ascii_blackhole.mp4" type="video/mp4" />
+  </video>
+
+  <!-- HEADER -->
+  <header>
+    <div class="flex items-center gap-6 px-8 py-4">
+      <a href="index.html" class="flex items-center gap-3">
+        <img src="./media/favicon2.png" class="w-10 h-10 rounded-full">
+        <h1 class="logo-text text-2xl">Singularity</h1>
+      </a>
+    </div>
+  </header>
+
+  <main class="z-10 px-8 py-24 w-full max-w-[1400px] mx-auto space-y-10">
+
+    <!-- BOTÃO VOLTAR -->
+    <button onclick="window.history.back()"
+      class="px-4 py-2 rounded-lg border border-gray-600 text-gray-300 hover:bg-gray-700/40 transition">
+      ← Voltar
+    </button>
+
+    <!-- CONTAINER DO PROJETO -->
+    <div id="project-container" class="result-card p-8 rounded-xl shadow-xl space-y-6 text-gray-200">
+    </div>
+
+    <!-- EMBED -->
+    <div class="mt-10">
+      <h2 class="text-xl mb-4 text-blue-300">Visualização do conteúdo</h2>
+      <div id="embed-box" class="w-full h-[600px] rounded-xl overflow-hidden border border-gray-600 bg-white">
+      </div>
+      <div class="message-box mt-4 text-gray-300">
+        <p>Aviso: Alguns projetos não possuem visualização pois os websites não permitem embedar suas páginas. Nesse
+          caso recomendamos abrir a página original.</p>
+      </div>
+    </div>
+
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer-section z-10 py-2">
+    <div class="flex hidden sm:flex flex-col justify-between px-8 py-3 text-sm gap-4">
+      <div class="flex gap-6">
+        <a href="https://github.com/CristianPopovici14" target="_blank" class="hover:underline">Meu GitHub</a>
+        <a href="https://cristian-popovici.web.app/" target="_blank" class="hover:underline">Meu Portfólio</a>
+        <a href="https://github.com/CristianPopovici14/baseConhecimentoCientífico"
+          class="hover:underline">Repositório</a>
+      </div>
+    </div>
+
+    <div class="flex sm:hidden justify-center sm:justify-start items-center gap-2 px-4">
+      <div class="flex items-center gap-3">
+        <a href="index.html" class="flex items-center min-w-10">
+          <img src="./media/favicon2.png" class="w-10 h-10 rounded-full" alt="Logo">
+        </a>
+      </div>
+
+      <div class="w-full"></div>
+
+      <div class="flex-1 max-w-2xl">
+        <button onclick="window.history.back()"
+          class="px-4 py-2 rounded-lg border border-gray-600 text-gray-300 hover:bg-gray-700/40 transition min-w-max">
+          ← Voltar
+        </button>
+      </div>
+    </div>
+  </footer>
+
+  <script src="project.js"></script>
+  <script src="embedings.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</body>
+
+</html>
