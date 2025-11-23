@@ -22,7 +22,7 @@ const categorias = [
   "Neural Network", "Operating System", "Physics Engine",
   "Programming Language", "Regex Engine", "Search Engine",
   "Shell", "Template Engine", "Text Editor", "Visual Recognition System",
-  "Voxel Engine", "Web Browser", "Web Server", "Uncategorized"
+  "Voxel Engine", "Web Browser", "Web Server"
 ];
 
 const linguagens = [
