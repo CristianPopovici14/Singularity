@@ -28,6 +28,16 @@ Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organi
 
 ---
 
+## 💡 **Por quê esse projeto importa?**
+<img width="1024" height="582" alt="Quote" src="https://github.com/user-attachments/assets/d0603829-b02e-43ff-bb86-2127068a319c" />
+
+Porque aprender programação é também se inspirar, e entender como tudo funciona.
+E nada inspira mais do que ver o que outros programadores foram capazes de construir — do básico ao lendário.
+
+**Singularity existe para te lembrar de que grandes projetos nascem de grandes ideias… e algumas linhas de código.**
+
+---
+
 ## 🛠️ **Tecnologias Utilizadas**
 
 * **HTML / CSS / JavaScript**
@@ -36,26 +46,18 @@ Este projeto nasceu na **10ª Imersão Alura**, com o objetivo de reunir, organi
 
 ---
 
-## 🚧 **Em Desenvolvimento**
+## 🚧 **TO DO**
 
 O projeto continua evoluindo! Entre as melhorias planejadas:
 
-* 📌 Filtros avançados de pesquisa
+* 📌 Filtrar por dificuldade
 * 📌 Sistema de tags inteligentes
-* 📌 Página de detalhes de cada projeto
-* 📌 Integração com APIs externas
-* 📌 Modo escuro automático
+* 📌 Trilhas (Grupo de Projetos)
+* 📌 Integração de mais projetos com IA
+* 📌 Uma página com a listagem de todos os projetos unidos pelos friltros que os compoem (algo parecido com FTB Quests)
 
 ---
 
-## 💡 **Por quê esse projeto importa?**
-
-Porque aprender programação é também se inspirar.
-E nada inspira mais do que ver o que outros programadores foram capazes de construir — do básico ao lendário.
-
-**CodeQuest existe para te lembrar de que grandes projetos nascem de grandes ideias… e algumas linhas de código.**
-
----
 
 ## 🧑‍💻 **Como executar**
 
@@ -73,32 +75,9 @@ Simples, direto, funcional.
 
 ---
 
-## 🤝 **Contribuições**
-
-Contribuições são muito bem-vindas!
-Se quiser adicionar mais projetos, melhorar o design ou otimizar a busca, fique à vontade para abrir um PR.
-
----
-
 ## ⭐ **Mostre seu apoio**
 
 Se este projeto te inspirou, deixe uma ⭐ no repositório!
 Nos ajuda muito e motiva a continuar evoluindo.
 
----
-
-## 🚀 **Explorar. Aprender. Criar.**
-
-O CodeQuest está só começando.
-Que ele seja o ponto de partida para algo incrível que você ainda vai construir.
-
----
-
-Se quiser, posso criar também:
-✅ Uma versão em inglês
-✅ Um logo para o projeto
-✅ Badges, GIFs ou visual hero para o README
-✅ Uma versão ainda mais épica ou mais técnica
-
-É só pedir!
 
