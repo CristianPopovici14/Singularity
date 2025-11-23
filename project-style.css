@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+body {
+  background: linear-gradient(135deg, #1a1b26 0%, #24283b 50%, #1a1b26 100%);
+  color: #a9b1d6;
+}
+
+html, body {
+  height: 100%;
+}
+
+.bg-video {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: 0;
+  pointer-events: none;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.logo-text {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.result-card {
+  background: rgba(36, 40, 59, 0.35);
+  border: 1px solid rgba(65, 72, 104, 0.5);
+  backdrop-filter: blur(12px);
+  transition: 0.2s;
+}
+
+.result-card:hover {
+  background: rgba(41, 46, 66, 0.45);
+  border-color: rgba(122, 162, 247, 0.5);
+}
+
+.footer-section {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgba(22, 22, 30, 0.6);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(65, 72, 104, 0.3);
+  z-index: 50;
+}
+
+.message-box {
+  background: rgba(255, 255, 0, 0.482);
+  border: 1px solid rgba(255, 255, 0, 0.5);
+  backdrop-filter: blur(8px);
+  padding: .5rem;
+  border-radius: 0.5rem;
+}
+
