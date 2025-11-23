@@ -1,0 +1,4820 @@
+{
+  "projects": [
+    {
+      "name": "Introduction to Ray Tracing: a Simple Method for Creating 3D Images",
+      "description": "Introduction to Ray Tracing: a Simple Method for Creating 3D Images",
+      "link": "https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Introdução ao Ray Tracing: um método simples para criar imagens 3D",
+      "translated-description": "Introdução ao Ray Tracing: um método simples para criar imagens 3D",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 1
+    },
+    {
+      "name": "How OpenGL works: software rendering in 500 lines of code",
+      "description": "How OpenGL works: software rendering in 500 lines of code",
+      "link": "https://github.com/ssloy/tinyrenderer/wiki",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Como funciona o OpenGL: renderização de software em 500 linhas de código",
+      "translated-description": "Como funciona o OpenGL: renderização de software em 500 linhas de código",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 2
+    },
+    {
+      "name": "Raycasting engine of Wolfenstein 3D",
+      "description": "Raycasting engine of Wolfenstein 3D",
+      "link": "http://lodev.org/cgtutor/raycasting.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Motor de Raycasting do Wolfenstein 3D",
+      "translated-description": "Motor de Raycasting do Wolfenstein 3D",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 3
+    },
+    {
+      "name": "Physically Based Rendering:From Theory To Implementation",
+      "description": "Physically Based Rendering:From Theory To Implementation",
+      "link": "http://www.pbr-book.org/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Renderização com base física: da teoria à implementação",
+      "translated-description": "Renderização com base física: da teoria à implementação",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 4
+    },
+    {
+      "name": "Ray Tracing in One Weekend",
+      "description": "Ray Tracing in One Weekend",
+      "link": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Ray Tracing em um fim de semana",
+      "translated-description": "Ray Tracing em um fim de semana",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 5
+    },
+    {
+      "name": "Rasterization: a Practical Implementation",
+      "description": "Rasterization: a Practical Implementation",
+      "link": "https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Rasterização: uma implementação prática",
+      "translated-description": "Rasterização: uma implementação prática",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 6
+    },
+    {
+      "name": "Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript",
+      "description": "Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript",
+      "link": "https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/",
+      "programing-language": [
+        "C# / TypeScript / JavaScript"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Aprendendo como escrever um soft engine 3D do zero em C#, TypeScript ou JavaScript",
+      "translated-description": "Aprendendo como escrever um soft engine 3D do zero em C#, TypeScript ou JavaScript",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 7
+    },
+    {
+      "name": "Build your own 3D renderer",
+      "description": "Build your own 3D renderer",
+      "link": "https://avik-das.github.io/build-your-own-raytracer/",
+      "programing-language": [
+        "Java / JavaScript"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Crie seu próprio renderizador 3D",
+      "translated-description": "Crie seu próprio renderizador 3D",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 8
+    },
+    {
+      "name": "How to create your own simple 3D render engine in pure Java",
+      "description": "How to create your own simple 3D render engine in pure Java",
+      "link": "http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Como criar seu próprio mecanismo de renderização 3D simples em Java puro",
+      "translated-description": "Como criar seu próprio mecanismo de renderização 3D simples em Java puro",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 9
+    },
+    {
+      "name": "Computer Graphics from scratch",
+      "description": "Computer Graphics from scratch",
+      "link": "http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html",
+      "programing-language": [
+        "JavaScript / Pseudocode"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Computação Gráfica do zero",
+      "translated-description": "Computação Gráfica do zero",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 10
+    },
+    {
+      "name": "A 3D Modeller",
+      "description": "A 3D Modeller",
+      "link": "http://aosabook.org/en/500L/a-3d-modeller.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "3D Renderer",
+      "translated-name": "Um modelador 3D",
+      "translated-description": "Um modelador 3D",
+      "translated-category": "Renderizador 3D",
+      "dificulty": "Insane",
+      "id": 11
+    },
+    {
+      "name": "How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D",
+      "description": "How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D",
+      "link": "https://www.youtube.com/watch?v=uXNjNcqW4kY",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Augmented Reality",
+      "translated-name": "Como fazer: Tutorial de aplicativo de realidade aumentada para iniciantes com Vuforia e Unity 3D",
+      "translated-description": "Como fazer: Tutorial de aplicativo de realidade aumentada para iniciantes com Vuforia e Unity 3D",
+      "translated-category": "Realidade Aumentada",
+      "dificulty": "Insane",
+      "id": 12
+    },
+    {
+      "name": "How To Unity ARCore",
+      "description": "How To Unity ARCore",
+      "link": "https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Augmented Reality",
+      "translated-name": "Como unir o ARCore",
+      "translated-description": "Como unir o ARCore",
+      "translated-category": "Realidade Aumentada",
+      "dificulty": "Medium",
+      "id": 13
+    },
+    {
+      "name": "AR Portal Tutorial with Unity",
+      "description": "AR Portal Tutorial with Unity",
+      "link": "https://www.youtube.com/playlist?list=PLPCqNOwwN794Gz5fzUSi1p4OqLU0HTmvn",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Augmented Reality",
+      "translated-name": "Tutorial do Portal AR com Unity",
+      "translated-description": "Tutorial do Portal AR com Unity",
+      "translated-category": "Realidade Aumentada",
+      "dificulty": "Medium",
+      "id": 14
+    },
+    {
+      "name": "How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down",
+      "description": "How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down",
+      "link": "https://www.youtube.com/watch?v=Z5AmqMuNi08",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Augmented Reality",
+      "translated-name": "Tutorial de Realidade Aumentada AR: Portal ARKit de cabeça para baixo",
+      "translated-description": "Tutorial de Realidade Aumentada AR: Portal ARKit de cabeça para baixo",
+      "translated-category": "Realidade Aumentada",
+      "dificulty": "Medium",
+      "id": 15
+    },
+    {
+      "name": "Augmented Reality with Python and OpenCV",
+      "description": "Augmented Reality with Python and OpenCV",
+      "link": "https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Augmented Reality",
+      "translated-name": "Realidade Aumentada com Python e OpenCV",
+      "translated-description": "Realidade Aumentada com Python e OpenCV",
+      "translated-category": "Realidade Aumentada",
+      "dificulty": "Easy",
+      "id": 16
+    },
+    {
+      "name": "Building a BitTorrent client from scratch in C#",
+      "description": "Building a BitTorrent client from scratch in C#",
+      "link": "https://www.seanjoflynn.com/research/bittorrent.html",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "BitTorrent Client",
+      "translated-name": "Construindo um cliente BitTorrent do zero em C#",
+      "translated-description": "Construindo um cliente BitTorrent do zero em C#",
+      "translated-category": "Cliente BitTorrent",
+      "dificulty": "Hard",
+      "id": 17
+    },
+    {
+      "name": "Building a BitTorrent client from the ground up in Go",
+      "description": "Building a BitTorrent client from the ground up in Go",
+      "link": "https://blog.jse.li/posts/torrent/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "BitTorrent Client",
+      "translated-name": "Construindo um cliente BitTorrent do zero em Go",
+      "translated-description": "Construindo um cliente BitTorrent do zero em Go",
+      "translated-category": "Cliente BitTorrent",
+      "dificulty": "Hard",
+      "id": 18
+    },
+    {
+      "name": "<",
+      "description": "Writing a Bencode Parser",
+      "link": "https://xmonader.github.io/nimdays/day02_bencode.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "BitTorrent Client",
+      "translated-name": "Escrevendo um analisador Bencode",
+      "translated-description": "Escrevendo um analisador Bencode",
+      "translated-category": "Cliente BitTorrent",
+      "dificulty": "Medium",
+      "id": 19
+    },
+    {
+      "name": "Write your own bittorrent client",
+      "description": "Write your own bittorrent client",
+      "link": "https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "BitTorrent Client",
+      "translated-name": "Escreva seu próprio cliente bittorrent",
+      "translated-description": "Escreva seu próprio cliente bittorrent",
+      "translated-category": "Cliente BitTorrent",
+      "dificulty": "Easy",
+      "id": 20
+    },
+    {
+      "name": "A BitTorrent client in Python 3.5",
+      "description": "A BitTorrent client in Python 3.5",
+      "link": "http://markuseliasson.se/article/bittorrent-in-python/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "BitTorrent Client",
+      "translated-name": "Um cliente BitTorrent em Python 3.5",
+      "translated-description": "Um cliente BitTorrent em Python 3.5",
+      "translated-category": "Cliente BitTorrent",
+      "dificulty": "Easy",
+      "id": 21
+    },
+    {
+      "name": "Functional Blockchain",
+      "description": "Functional Blockchain",
+      "link": "https://beta.observablehq.com/@galletti94/functional-blockchain",
+      "programing-language": [
+        "ATS"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Blockchain Funcional",
+      "translated-description": "Blockchain Funcional",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Hard",
+      "id": 22
+    },
+    {
+      "name": "Programming The Blockchain in C#",
+      "description": "Programming The Blockchain in C#",
+      "link": "https://programmingblockchain.gitbooks.io/programmingblockchain/",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Programando o Blockchain em C#",
+      "translated-description": "Programando o Blockchain em C#",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 23
+    },
+    {
+      "name": "Write your own blockchain and PoW algorithm using Crystal",
+      "description": "Write your own blockchain and PoW algorithm using Crystal",
+      "link": "https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52",
+      "programing-language": [
+        "Crystal"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Escreva seu próprio algoritmo blockchain e PoW usando Crystal",
+      "translated-description": "Escreva seu próprio algoritmo blockchain e PoW usando Crystal",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 24
+    },
+    {
+      "name": "Building Blockchain in Go",
+      "description": "Building Blockchain in Go",
+      "link": "https://jeiwan.net/posts/building-blockchain-in-go-part-1/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Construindo Blockchain em Go",
+      "translated-description": "Construindo Blockchain em Go",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 25
+    },
+    {
+      "name": "Code your own blockchain in less than 200 lines of Go",
+      "description": "Code your own blockchain in less than 200 lines of Go",
+      "link": "https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Codifique seu próprio blockchain em menos de 200 linhas de Go",
+      "translated-description": "Codifique seu próprio blockchain em menos de 200 linhas de Go",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 26
+    },
+    {
+      "name": "Creating Your First Blockchain with Java",
+      "description": "Creating Your First Blockchain with Java",
+      "link": "https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Criando seu primeiro Blockchain com Java",
+      "translated-description": "Criando seu primeiro Blockchain com Java",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 27
+    },
+    {
+      "name": "A cryptocurrency implementation in less than 1500 lines of code",
+      "description": "A cryptocurrency implementation in less than 1500 lines of code",
+      "link": "https://github.com/conradoqg/naivecoin",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Uma implementação de criptomoeda em menos de 1.500 linhas de código",
+      "translated-description": "Uma implementação de criptomoeda em menos de 1.500 linhas de código",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 28
+    },
+    {
+      "name": "Build your own Blockchain in JavaScript",
+      "description": "Build your own Blockchain in JavaScript",
+      "link": "https://github.com/nambrot/blockchain-in-js",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Construa seu próprio Blockchain em JavaScript",
+      "translated-description": "Construa seu próprio Blockchain em JavaScript",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 29
+    },
+    {
+      "name": "Learn & Build a JavaScript Blockchain",
+      "description": "Learn & Build a JavaScript Blockchain",
+      "link": "https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Aprenda e construa um Blockchain JavaScript",
+      "translated-description": "Aprenda e construa um Blockchain JavaScript",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 30
+    },
+    {
+      "name": "Creating a blockchain with JavaScript",
+      "description": "Creating a blockchain with JavaScript",
+      "link": "https://github.com/SavjeeTutorials/SavjeeCoin",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Criando um blockchain com JavaScript",
+      "translated-description": "Criando um blockchain com JavaScript",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 31
+    },
+    {
+      "name": "How To Launch Your Own Production-Ready Cryptocurrency",
+      "description": "How To Launch Your Own Production-Ready Cryptocurrency",
+      "link": "https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Como lançar sua própria criptomoeda pronta para produção",
+      "translated-description": "Como lançar sua própria criptomoeda pronta para produção",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 32
+    },
+    {
+      "name": "Writing a Blockchain in Node.js",
+      "description": "Writing a Blockchain in Node.js",
+      "link": "https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Escrevendo um Blockchain em Node.js",
+      "translated-description": "Escrevendo um Blockchain em Node.js",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 33
+    },
+    {
+      "name": "Let’s implement a cryptocurrency in Kotlin",
+      "description": "Let’s implement a cryptocurrency in Kotlin",
+      "link": "https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580",
+      "programing-language": [
+        "Kotlin"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Vamos implementar uma criptomoeda em Kotlin",
+      "translated-description": "Vamos implementar uma criptomoeda em Kotlin",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 34
+    },
+    {
+      "name": "Learn Blockchains by Building One",
+      "description": "Learn Blockchains by Building One",
+      "link": "https://hackernoon.com/learn-blockchains-by-building-one-117428612f46",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Aprenda Blockchains construindo um",
+      "translated-description": "Aprenda Blockchains construindo um",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 35
+    },
+    {
+      "name": "Build your own blockchain: a Python tutorial",
+      "description": "Build your own blockchain: a Python tutorial",
+      "link": "http://ecomunsing.com/build-your-own-blockchain",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Construa seu próprio blockchain: um tutorial em Python",
+      "translated-description": "Construa seu próprio blockchain: um tutorial em Python",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 36
+    },
+    {
+      "name": "A Practical Introduction to Blockchain with Python",
+      "description": "A Practical Introduction to Blockchain with Python",
+      "link": "http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Uma introdução prática ao Blockchain com Python",
+      "translated-description": "Uma introdução prática ao Blockchain com Python",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 37
+    },
+    {
+      "name": "Let’s Build the Tiniest Blockchain",
+      "description": "Let’s Build the Tiniest Blockchain",
+      "link": "https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Vamos construir o menor Blockchain",
+      "translated-description": "Vamos construir o menor Blockchain",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 38
+    },
+    {
+      "name": "Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
+      "description": "Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
+      "link": "https://github.com/yukimotopress/programming-blockchains-step-by-step",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Programando Blockchains passo a passo (edição do livro de manuscritos)",
+      "translated-description": "Programando Blockchains passo a passo (edição do livro de manuscritos)",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 39
+    },
+    {
+      "name": "How to build a simple actor-based blockchain",
+      "description": "How to build a simple actor-based blockchain",
+      "link": "https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177",
+      "programing-language": [
+        "Scala"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Como construir um blockchain simples baseado em ator",
+      "translated-description": "Como construir um blockchain simples baseado em ator",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 40
+    },
+    {
+      "name": "Naivecoin: a tutorial for building a cryptocurrency",
+      "description": "Naivecoin: a tutorial for building a cryptocurrency",
+      "link": "https://lhartikk.github.io/",
+      "programing-language": [
+        "TypeScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Naivecoin: um tutorial para construir uma criptomoeda",
+      "translated-description": "Naivecoin: um tutorial para construir uma criptomoeda",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 41
+    },
+    {
+      "name": "NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus",
+      "description": "NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus",
+      "link": "https://naivecoinstake.learn.uno/",
+      "programing-language": [
+        "TypeScript"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "NaivecoinStake: um tutorial para construir uma criptomoeda com o consenso Proof of Stake",
+      "translated-description": "NaivecoinStake: um tutorial para construir uma criptomoeda com o consenso Proof of Stake",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 42
+    },
+    {
+      "name": "Building A Blockchain in Rust & Substrate",
+      "description": "Building A Blockchain in Rust & Substrate",
+      "link": "https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Blockchain / Cryptocurrency",
+      "translated-name": "Construindo um Blockchain em Ferrugem e Substrato",
+      "translated-description": "Construindo um Blockchain em Ferrugem e Substrato",
+      "translated-category": "Blockchain / Criptomoeda",
+      "dificulty": "Insane",
+      "id": 43
+    },
+    {
+      "name": "Roll your own IRC bot",
+      "description": "Roll your own IRC bot",
+      "link": "https://wiki.haskell.org/Roll_your_own_IRC_bot",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Bot",
+      "translated-name": "Crie seu próprio bot de IRC",
+      "translated-description": "Crie seu próprio bot de IRC",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 44
+    },
+    {
+      "name": "Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js",
+      "description": "Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js",
+      "link": "https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Bot",
+      "translated-name": "Criando um bot simples de IA do Facebook Messenger com API.ai em Node.js",
+      "translated-description": "Criando um bot simples de IA do Facebook Messenger com API.ai em Node.js",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 45
+    },
+    {
+      "name": "How to make a responsive telegram bot",
+      "description": "How to make a responsive telegram bot",
+      "link": "https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Bot",
+      "translated-name": "Como fazer um bot de telegrama responsivo",
+      "translated-description": "Como fazer um bot de telegrama responsivo",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 46
+    },
+    {
+      "name": "Create a Discord bot",
+      "description": "Create a Discord bot",
+      "link": "https://discordjs.guide/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Bot",
+      "translated-name": "Crie um bot Discord",
+      "translated-description": "Crie um bot Discord",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 47
+    },
+    {
+      "name": "gifbot - Building a GitHub App",
+      "description": "gifbot - Building a GitHub App",
+      "link": "https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Bot",
+      "translated-name": "gifbot - Construindo um aplicativo GitHub",
+      "translated-description": "gifbot - Construindo um aplicativo GitHub",
+      "translated-category": "Robô",
+      "dificulty": "Easy",
+      "id": 48
+    },
+    {
+      "name": "Building A Simple AI Chatbot With Web Speech API And Node.js",
+      "description": "Building A Simple AI Chatbot With Web Speech API And Node.js",
+      "link": "https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Bot",
+      "translated-name": "Construindo um chatbot de IA simples com Web Speech API e Node.js",
+      "translated-description": "Construindo um chatbot de IA simples com Web Speech API e Node.js",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 49
+    },
+    {
+      "name": "How to Build Your First Slack Bot with Python",
+      "description": "How to Build Your First Slack Bot with Python",
+      "link": "https://www.fullstackpython.com/blog/build-first-slack-bot-python.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Como construir seu primeiro bot do Slack com Python",
+      "translated-description": "Como construir seu primeiro bot do Slack com Python",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 50
+    },
+    {
+      "name": "How to build a Slack Bot with Python using Slack Events API & Django under 20 minute",
+      "description": "How to build a Slack Bot with Python using Slack Events API & Django under 20 minute",
+      "link": "https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Como construir um Slack Bot com Python usando Slack Events API e Django em menos de 20 minutos",
+      "translated-description": "Como construir um Slack Bot com Python usando Slack Events API e Django em menos de 20 minutos",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 51
+    },
+    {
+      "name": "Build a Reddit Bot",
+      "description": "Build a Reddit Bot",
+      "link": "http://pythonforengineers.com/build-a-reddit-bot-part-1/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Construa um bot Reddit",
+      "translated-description": "Construa um bot Reddit",
+      "translated-category": "Robô",
+      "dificulty": "Easy",
+      "id": 52
+    },
+    {
+      "name": "How To Make A Reddit Bot",
+      "description": "How To Make A Reddit Bot",
+      "link": "https://www.youtube.com/watch?v=krTUf7BpTc0",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Como fazer um bot Reddit",
+      "translated-description": "Como fazer um bot Reddit",
+      "translated-category": "Robô",
+      "dificulty": "Easy",
+      "id": 53
+    },
+    {
+      "name": "How To Create a Telegram Bot Using Python",
+      "description": "How To Create a Telegram Bot Using Python",
+      "link": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Como criar um bot de telegrama usando Python",
+      "translated-description": "Como criar um bot de telegrama usando Python",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 54
+    },
+    {
+      "name": "Create a Twitter Bot in Python Using Tweepy",
+      "description": "Create a Twitter Bot in Python Using Tweepy",
+      "link": "https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Crie um bot do Twitter em Python usando Tweepy",
+      "translated-description": "Crie um bot do Twitter em Python usando Tweepy",
+      "translated-category": "Robô",
+      "dificulty": "Easy",
+      "id": 55
+    },
+    {
+      "name": "Creating Reddit Bot with Python & PRAW",
+      "description": "Creating Reddit Bot with Python & PRAW",
+      "link": "https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Bot",
+      "translated-name": "Criando Reddit Bot com Python e PRAW",
+      "translated-description": "Criando Reddit Bot com Python e PRAW",
+      "translated-category": "Robô",
+      "dificulty": "Easy",
+      "id": 56
+    },
+    {
+      "name": "Build A Cryptocurrency Trading Bot with R",
+      "description": "Build A Cryptocurrency Trading Bot with R",
+      "link": "https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1",
+      "programing-language": [
+        "R"
+      ],
+      "category": "Bot",
+      "translated-name": "Construa um bot de negociação de criptomoedas com R",
+      "translated-description": "Construa um bot de negociação de criptomoedas com R",
+      "translated-category": "Robô",
+      "dificulty": "Hard",
+      "id": 57
+    },
+    {
+      "name": "A bot for Starcraft in Rust, C or any other language",
+      "description": "A bot for Starcraft in Rust, C or any other language",
+      "link": "https://habr.com/en/post/436254/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Bot",
+      "translated-name": "Um bot para Starcraft em Rust, C ou qualquer outra linguagem",
+      "translated-description": "Um bot para Starcraft em Rust, C ou qualquer outra linguagem",
+      "translated-category": "Robô",
+      "dificulty": "Medium",
+      "id": 58
+    },
+    {
+      "name": "Visualize your local git contributions with Go",
+      "description": "Visualize your local git contributions with Go",
+      "link": "https://flaviocopes.com/go-git-contributions/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Visualize suas contribuições git locais com Go",
+      "translated-description": "Visualize suas contribuições git locais com Go",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Medium",
+      "id": 59
+    },
+    {
+      "name": "Build a command line app with Go: lolcat",
+      "description": "Build a command line app with Go: lolcat",
+      "link": "https://flaviocopes.com/go-tutorial-lolcat/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Crie um aplicativo de linha de comando com Go: lolcat",
+      "translated-description": "Crie um aplicativo de linha de comando com Go: lolcat",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Medium",
+      "id": 60
+    },
+    {
+      "name": "Building a cli command with Go: cowsay",
+      "description": "Building a cli command with Go: cowsay",
+      "link": "https://flaviocopes.com/go-tutorial-cowsay/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Construindo um comando cli com Go: cowsay",
+      "translated-description": "Construindo um comando cli com Go: cowsay",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Hard",
+      "id": 61
+    },
+    {
+      "name": "Go CLI tutorial: fortune clone",
+      "description": "Go CLI tutorial: fortune clone",
+      "link": "https://flaviocopes.com/go-tutorial-fortune/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Tutorial Go CLI: clone da fortuna",
+      "translated-description": "Tutorial Go CLI: clone da fortuna",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Hard",
+      "id": 62
+    },
+    {
+      "name": "Writing a stow alternative to manage dotfiles",
+      "description": "Writing a stow alternative to manage dotfiles",
+      "link": "https://xmonader.github.io/nimdays/day06_nistow.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Escrevendo uma alternativa stow para gerenciar dotfiles",
+      "translated-description": "Escrevendo uma alternativa stow para gerenciar dotfiles",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Medium",
+      "id": 63
+    },
+    {
+      "name": "Create a CLI tool in Javascript",
+      "description": "Create a CLI tool in Javascript",
+      "link": "https://citw.dev/tutorial/create-your-own-cli-tool",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Crie uma ferramenta CLI em Javascript",
+      "translated-description": "Crie uma ferramenta CLI em Javascript",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Medium",
+      "id": 64
+    },
+    {
+      "name": "Command line apps in Rust",
+      "description": "Command line apps in Rust",
+      "link": "https://rust-cli.github.io/book/index.html",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Aplicativos de linha de comando em Rust",
+      "translated-description": "Aplicativos de linha de comando em Rust",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Medium",
+      "id": 65
+    },
+    {
+      "name": "Writing a Command Line Tool in Rust",
+      "description": "Writing a Command Line Tool in Rust",
+      "link": "https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Escrevendo uma ferramenta de linha de comando em Rust",
+      "translated-description": "Escrevendo uma ferramenta de linha de comando em Rust",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Hard",
+      "id": 66
+    },
+    {
+      "name": "Build Your Own CLI App in Zig from Scratch",
+      "description": "Build Your Own CLI App in Zig from Scratch",
+      "link": "https://rebuild-x.github.io/docs/#/./zig/terminal/cli",
+      "programing-language": [
+        "Zig"
+      ],
+      "category": "Command-Line Tool",
+      "translated-name": "Crie seu próprio aplicativo CLI em Zig do zero",
+      "translated-description": "Crie seu próprio aplicativo CLI em Zig do zero",
+      "translated-category": "Ferramenta de linha de comando",
+      "dificulty": "Insane",
+      "id": 67
+    },
+    {
+      "name": "Let's Build a Simple Database",
+      "description": "Let's Build a Simple Database",
+      "link": "https://cstack.github.io/db_tutorial/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Database",
+      "translated-name": "Vamos construir um banco de dados simples",
+      "translated-description": "Vamos construir um banco de dados simples",
+      "translated-category": "Banco de dados",
+      "dificulty": "Hard",
+      "id": 68
+    },
+    {
+      "name": "Build Your Own Redis from Scratch",
+      "description": "Build Your Own Redis from Scratch",
+      "link": "https://build-your-own.org/redis",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Database",
+      "translated-name": "Crie seu próprio Redis do zero",
+      "translated-description": "Crie seu próprio Redis do zero",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 69
+    },
+    {
+      "name": "Build Your Own Database",
+      "description": "Build Your Own Database",
+      "link": "https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Database",
+      "translated-name": "Construa seu próprio banco de dados",
+      "translated-description": "Construa seu próprio banco de dados",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 70
+    },
+    {
+      "name": "An Archaeology-Inspired Database",
+      "description": "An Archaeology-Inspired Database",
+      "link": "http://aosabook.org/en/500L/an-archaeology-inspired-database.html",
+      "programing-language": [
+        "Clojure"
+      ],
+      "category": "Database",
+      "translated-name": "Um banco de dados inspirado na arqueologia",
+      "translated-description": "Um banco de dados inspirado na arqueologia",
+      "translated-category": "Banco de dados",
+      "dificulty": "Hard",
+      "id": 71
+    },
+    {
+      "name": "Why you should build your own NoSQL Database",
+      "description": "Why you should build your own NoSQL Database",
+      "link": "https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5",
+      "programing-language": [
+        "Crystal"
+      ],
+      "category": "Database",
+      "translated-name": "Por que você deve construir seu próprio banco de dados NoSQL",
+      "translated-description": "Por que você deve construir seu próprio banco de dados NoSQL",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 72
+    },
+    {
+      "name": "Build Your Own Database from Scratch: Persistence, Indexing, Concurrency",
+      "description": "Build Your Own Database from Scratch: Persistence, Indexing, Concurrency",
+      "link": "https://build-your-own.org/database/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Database",
+      "translated-name": "Construa seu próprio banco de dados do zero: persistência, indexação, simultaneidade",
+      "translated-description": "Construa seu próprio banco de dados do zero: persistência, indexação, simultaneidade",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 73
+    },
+    {
+      "name": "Build Your Own Redis from Scratch",
+      "description": "Build Your Own Redis from Scratch",
+      "link": "https://www.build-redis-from-scratch.dev/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Database",
+      "translated-name": "Crie seu próprio Redis do zero",
+      "translated-description": "Crie seu próprio Redis do zero",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 74
+    },
+    {
+      "name": "Dagoba: an in-memory graph database",
+      "description": "Dagoba: an in-memory graph database",
+      "link": "http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Database",
+      "translated-name": "Dagoba: um banco de dados gráfico na memória",
+      "translated-description": "Dagoba: um banco de dados gráfico na memória",
+      "translated-category": "Banco de dados",
+      "dificulty": "Hard",
+      "id": 75
+    },
+    {
+      "name": "DBDB: Dog Bed Database",
+      "description": "DBDB: Dog Bed Database",
+      "link": "http://aosabook.org/en/500L/dbdb-dog-bed-database.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Database",
+      "translated-name": "DBDB: banco de dados de camas de cachorro",
+      "translated-description": "DBDB: banco de dados de camas de cachorro",
+      "translated-category": "Banco de dados",
+      "dificulty": "Medium",
+      "id": 76
+    },
+    {
+      "name": "Write your own miniature Redis with Python",
+      "description": "Write your own miniature Redis with Python",
+      "link": "http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Database",
+      "translated-name": "Escreva seu próprio Redis em miniatura com Python",
+      "translated-description": "Escreva seu próprio Redis em miniatura com Python",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 77
+    },
+    {
+      "name": "Build your own fast, persistent KV store in Ruby",
+      "description": "Build your own fast, persistent KV store in Ruby",
+      "link": "https://dineshgowda.com/posts/build-your-own-persistent-kv-store/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Database",
+      "translated-name": "Crie seu próprio armazenamento KV rápido e persistente em Ruby",
+      "translated-description": "Crie seu próprio armazenamento KV rápido e persistente em Ruby",
+      "translated-category": "Banco de dados",
+      "dificulty": "Hard",
+      "id": 78
+    },
+    {
+      "name": "Build your own Redis client and server",
+      "description": "Build your own Redis client and server",
+      "link": "https://tokio.rs/tokio/tutorial/setup",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Database",
+      "translated-name": "Crie seu próprio cliente e servidor Redis",
+      "translated-description": "Crie seu próprio cliente e servidor Redis",
+      "translated-category": "Banco de dados",
+      "dificulty": "Insane",
+      "id": 79
+    },
+    {
+      "name": "Linux containers in 500 lines of code",
+      "description": "Linux containers in 500 lines of code",
+      "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Docker",
+      "translated-name": "Contêineres Linux em 500 linhas de código",
+      "translated-description": "Contêineres Linux em 500 linhas de código",
+      "translated-category": "Docker",
+      "dificulty": "Medium",
+      "id": 80
+    },
+    {
+      "name": "Build Your Own Container Using Less than 100 Lines of Go",
+      "description": "Build Your Own Container Using Less than 100 Lines of Go",
+      "link": "https://www.infoq.com/articles/build-a-container-golang",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Docker",
+      "translated-name": "Construa seu próprio contêiner usando menos de 100 linhas de Go",
+      "translated-description": "Construa seu próprio contêiner usando menos de 100 linhas de Go",
+      "translated-category": "Docker",
+      "dificulty": "Hard",
+      "id": 81
+    },
+    {
+      "name": "Building a container from scratch in Go",
+      "description": "Building a container from scratch in Go",
+      "link": "https://www.youtube.com/watch?v=8fi7uSYlOdc",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Docker",
+      "translated-name": "Construindo um contêiner do zero em Go",
+      "translated-description": "Construindo um contêiner do zero em Go",
+      "translated-category": "Docker",
+      "dificulty": "Hard",
+      "id": 82
+    },
+    {
+      "name": "A workshop on Linux containers: Rebuild Docker from Scratch",
+      "description": "A workshop on Linux containers: Rebuild Docker from Scratch",
+      "link": "https://github.com/Fewbytes/rubber-docker",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Docker",
+      "translated-name": "Um workshop sobre contêineres Linux: reconstruir o Docker do zero",
+      "translated-description": "Um workshop sobre contêineres Linux: reconstruir o Docker do zero",
+      "translated-category": "Docker",
+      "dificulty": "Medium",
+      "id": 83
+    },
+    {
+      "name": "A proof-of-concept imitation of Docker, written in 100% Python",
+      "description": "A proof-of-concept imitation of Docker, written in 100% Python",
+      "link": "https://github.com/tonybaloney/mocker",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Docker",
+      "translated-name": "Uma imitação de prova de conceito do Docker, escrita 100% em Python",
+      "translated-description": "Uma imitação de prova de conceito do Docker, escrita 100% em Python",
+      "translated-category": "Docker",
+      "dificulty": "Easy",
+      "id": 84
+    },
+    {
+      "name": "Docker implemented in around 100 lines of bash",
+      "description": "Docker implemented in around 100 lines of bash",
+      "link": "https://github.com/p8952/bocker",
+      "programing-language": [
+        "Shell"
+      ],
+      "category": "Docker",
+      "translated-name": "Docker implementado em cerca de 100 linhas de bash",
+      "translated-description": "Docker implementado em cerca de 100 linhas de bash",
+      "translated-category": "Docker",
+      "dificulty": "Medium",
+      "id": 85
+    },
+    {
+      "name": "Home-grown bytecode interpreters",
+      "description": "Home-grown bytecode interpreters",
+      "link": "https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Interpretadores de bytecode desenvolvidos internamente",
+      "translated-description": "Interpretadores de bytecode desenvolvidos internamente",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 86
+    },
+    {
+      "name": "Virtual machine in C",
+      "description": "Virtual machine in C",
+      "link": "http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Máquina virtual em C",
+      "translated-description": "Máquina virtual em C",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 87
+    },
+    {
+      "name": "Write your Own Virtual Machine",
+      "description": "Write your Own Virtual Machine",
+      "link": "https://justinmeiners.github.io/lc3-vm/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Escreva sua própria máquina virtual",
+      "translated-description": "Escreva sua própria máquina virtual",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 88
+    },
+    {
+      "name": "Writing a Game Boy emulator, Cinoop",
+      "description": "Writing a Game Boy emulator, Cinoop",
+      "link": "https://cturt.github.io/cinoop.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Escrevendo um emulador de Game Boy, Cinoop",
+      "translated-description": "Escrevendo um emulador de Game Boy, Cinoop",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 89
+    },
+    {
+      "name": "How to write an emulator (CHIP-8 interpreter)",
+      "description": "How to write an emulator (CHIP-8 interpreter)",
+      "link": "http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Como escrever um emulador (intérprete CHIP-8)",
+      "translated-description": "Como escrever um emulador (intérprete CHIP-8)",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 90
+    },
+    {
+      "name": "Emulation tutorial (CHIP-8 interpreter)",
+      "description": "Emulation tutorial (CHIP-8 interpreter)",
+      "link": "http://www.codeslinger.co.uk/pages/projects/chip8.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Tutorial de emulação (intérprete CHIP-8)",
+      "translated-description": "Tutorial de emulação (intérprete CHIP-8)",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 91
+    },
+    {
+      "name": "Emulation tutorial (GameBoy emulator)",
+      "description": "Emulation tutorial (GameBoy emulator)",
+      "link": "http://www.codeslinger.co.uk/pages/projects/gameboy.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Tutorial de emulação (emulador de GameBoy)",
+      "translated-description": "Tutorial de emulação (emulador de GameBoy)",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 92
+    },
+    {
+      "name": "Emulation tutorial (Master System emulator)",
+      "description": "Emulation tutorial (Master System emulator)",
+      "link": "http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Tutorial de emulação (emulador Master System)",
+      "translated-description": "Tutorial de emulação (emulador Master System)",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 93
+    },
+    {
+      "name": "NES Emulator From Scratch",
+      "description": "NES Emulator From Scratch",
+      "link": "https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Emulador NES do zero",
+      "translated-description": "Emulador NES do zero",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 94
+    },
+    {
+      "name": "CHIP-8 in Common Lisp",
+      "description": "CHIP-8 in Common Lisp",
+      "link": "http://stevelosh.com/blog/2016/12/chip8-cpu/",
+      "programing-language": [
+        "Common Lisp"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "CHIP-8 em Lisp comum",
+      "translated-description": "CHIP-8 em Lisp comum",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 95
+    },
+    {
+      "name": "GameBoy Emulation in JavaScript",
+      "description": "GameBoy Emulation in JavaScript",
+      "link": "http://imrannazar.com/GameBoy-Emulation-in-JavaScript",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Emulação de GameBoy em JavaScript",
+      "translated-description": "Emulação de GameBoy em JavaScript",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 96
+    },
+    {
+      "name": "Emulation Basics: Write your own Chip 8 Emulator/Interpreter",
+      "description": "Emulation Basics: Write your own Chip 8 Emulator/Interpreter",
+      "link": "http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "Noções básicas de emulação: escreva seu próprio emulador/intérprete Chip 8",
+      "translated-description": "Noções básicas de emulação: escreva seu próprio emulador/intérprete Chip 8",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 97
+    },
+    {
+      "name": "0dmg: Learning Rust by building a partial Game Boy emulator",
+      "description": "0dmg: Learning Rust by building a partial Game Boy emulator",
+      "link": "https://jeremybanks.github.io/0dmg/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Emulator / Virtual Machine",
+      "translated-name": "0dmg: Aprendendo Rust construindo um emulador parcial de Game Boy",
+      "translated-description": "0dmg: Aprendendo Rust construindo um emulador parcial de Game Boy",
+      "translated-category": "Emulador / Máquina Virtual",
+      "dificulty": "Insane",
+      "id": 98
+    },
+    {
+      "name": "WTF is JSX (Let's Build a JSX Renderer)",
+      "description": "WTF is JSX (Let's Build a JSX Renderer)",
+      "link": "https://jasonformat.com/wtf-is-jsx/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "WTF é JSX (vamos construir um renderizador JSX)",
+      "translated-description": "WTF é JSX (vamos construir um renderizador JSX)",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 99
+    },
+    {
+      "name": "A DIY guide to build your own React",
+      "description": "A DIY guide to build your own React",
+      "link": "https://github.com/hexacta/didact",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Um guia DIY para construir seu próprio React",
+      "translated-description": "Um guia DIY para construir seu próprio React",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 100
+    },
+    {
+      "name": "Building React From Scratch",
+      "description": "Building React From Scratch",
+      "link": "https://www.youtube.com/watch?v=_MAD4Oly9yg",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Construindo o React do zero",
+      "translated-description": "Construindo o React do zero",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 101
+    },
+    {
+      "name": "Gooact: React in 160 lines of JavaScript",
+      "description": "Gooact: React in 160 lines of JavaScript",
+      "link": "https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Gooact: Reaja em 160 linhas de JavaScript",
+      "translated-description": "Gooact: Reaja em 160 linhas de JavaScript",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 102
+    },
+    {
+      "name": "Learn how React Reconciler package works by building your own lightweight React DOM",
+      "description": "Learn how React Reconciler package works by building your own lightweight React DOM",
+      "link": "https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Aprenda como o pacote React Reconciler funciona construindo seu próprio React DOM leve",
+      "translated-description": "Aprenda como o pacote React Reconciler funciona construindo seu próprio React DOM leve",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 103
+    },
+    {
+      "name": "Build Yourself a Redux",
+      "description": "Build Yourself a Redux",
+      "link": "https://zapier.com/engineering/how-to-build-redux/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Construa um Redux para você",
+      "translated-description": "Construa um Redux para você",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 104
+    },
+    {
+      "name": "Let’s Write Redux!",
+      "description": "Let’s Write Redux!",
+      "link": "https://www.jamasoftware.com/blog/lets-write-redux/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Vamos escrever Redux!",
+      "translated-description": "Vamos escrever Redux!",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 105
+    },
+    {
+      "name": "Redux: Implementing Store from Scratch",
+      "description": "Redux: Implementing Store from Scratch",
+      "link": "https://egghead.io/lessons/react-redux-implementing-store-from-scratch",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Redux: implementando a loja do zero",
+      "translated-description": "Redux: implementando a loja do zero",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Insane",
+      "id": 106
+    },
+    {
+      "name": "Build Your own Simplified AngularJS in 200 Lines of JavaScript",
+      "description": "Build Your own Simplified AngularJS in 200 Lines of JavaScript",
+      "link": "https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Crie seu próprio AngularJS simplificado em 200 linhas de JavaScript",
+      "translated-description": "Crie seu próprio AngularJS simplificado em 200 linhas de JavaScript",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 107
+    },
+    {
+      "name": "Make Your Own AngularJS",
+      "description": "Make Your Own AngularJS",
+      "link": "http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Faça seu próprio AngularJS",
+      "translated-description": "Faça seu próprio AngularJS",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 108
+    },
+    {
+      "name": "How to write your own Virtual DOM",
+      "description": "How to write your own Virtual DOM",
+      "link": "https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Como escrever seu próprio DOM Virtual",
+      "translated-description": "Como escrever seu próprio DOM Virtual",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Medium",
+      "id": 109
+    },
+    {
+      "name": "Building a frontend framework, from scratch, with components (templating, state, VDOM)",
+      "description": "Building a frontend framework, from scratch, with components (templating, state, VDOM)",
+      "link": "https://mfrachet.github.io/create-frontend-framework/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Construindo um framework frontend, do zero, com componentes (template, state, VDOM)",
+      "translated-description": "Construindo um framework frontend, do zero, com componentes (template, state, VDOM)",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 110
+    },
+    {
+      "name": "Build your own React",
+      "description": "Build your own React",
+      "link": "https://pomb.us/build-your-own-react/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Construa seu próprio React",
+      "translated-description": "Construa seu próprio React",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 111
+    },
+    {
+      "name": "Building a Custom React Renderer",
+      "description": "Building a Custom React Renderer",
+      "link": "https://youtu.be/CGpMlWVcHok",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Front-end Framework / Library",
+      "translated-name": "Construindo um renderizador React personalizado",
+      "translated-description": "Construindo um renderizador React personalizado",
+      "translated-category": "Framework/biblioteca front-end",
+      "dificulty": "Hard",
+      "id": 112
+    },
+    {
+      "name": "Handmade Hero",
+      "description": "Handmade Hero",
+      "link": "https://handmadehero.org/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Herói Feito à Mão",
+      "translated-description": "Herói Feito à Mão",
+      "translated-category": "Jogo",
+      "dificulty": "Insane",
+      "id": 113
+    },
+    {
+      "name": "How to Program an NES game in C",
+      "description": "How to Program an NES game in C",
+      "link": "https://nesdoug.com/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Como programar um jogo de NES em C",
+      "translated-description": "Como programar um jogo de NES em C",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 114
+    },
+    {
+      "name": "Chess Engine In C",
+      "description": "Chess Engine In C",
+      "link": "https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Motor de xadrez em C",
+      "translated-description": "Motor de xadrez em C",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 115
+    },
+    {
+      "name": "Let's Make: Dangerous Dave",
+      "description": "Let's Make: Dangerous Dave",
+      "link": "https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Vamos fazer: Dave Perigoso",
+      "translated-description": "Vamos fazer: Dave Perigoso",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 116
+    },
+    {
+      "name": "Learn Video Game Programming in C",
+      "description": "Learn Video Game Programming in C",
+      "link": "https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Aprenda programação de videogame em C",
+      "translated-description": "Aprenda programação de videogame em C",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 117
+    },
+    {
+      "name": "Coding A Sudoku Solver in C",
+      "description": "Coding A Sudoku Solver in C",
+      "link": "https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Codificando um solucionador de Sudoku em C",
+      "translated-description": "Codificando um solucionador de Sudoku em C",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 118
+    },
+    {
+      "name": "Coding a Rogue/Nethack RPG in C",
+      "description": "Coding a Rogue/Nethack RPG in C",
+      "link": "https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Codificando um RPG Rogue/Nethack em C",
+      "translated-description": "Codificando um RPG Rogue/Nethack em C",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 119
+    },
+    {
+      "name": "On Tetris and Reimplementation",
+      "description": "On Tetris and Reimplementation",
+      "link": "https://brennan.io/2015/06/12/tetris-reimplementation/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Game",
+      "translated-name": "Sobre Tetris e Reimplementação",
+      "translated-description": "Sobre Tetris e Reimplementação",
+      "translated-category": "Jogo",
+      "dificulty": "Hard",
+      "id": 120
+    },
+    {
+      "name": "Breakout",
+      "description": "Breakout",
+      "link": "https://learnopengl.com/In-Practice/2D-Game/Breakout",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Saia",
+      "translated-description": "Saia",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 121
+    },
+    {
+      "name": "Beginning Game Programming v2.0",
+      "description": "Beginning Game Programming v2.0",
+      "link": "http://lazyfoo.net/tutorials/SDL/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Iniciando a programação de jogos v2.0",
+      "translated-description": "Iniciando a programação de jogos v2.0",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 122
+    },
+    {
+      "name": "Tetris tutorial in C++ platform independent focused in game logic for beginners",
+      "description": "Tetris tutorial in C++ platform independent focused in game logic for beginners",
+      "link": "http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Tutorial de Tetris em plataforma C++ independente focado em lógica de jogo para iniciantes",
+      "translated-description": "Tutorial de Tetris em plataforma C++ independente focado em lógica de jogo para iniciantes",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 123
+    },
+    {
+      "name": "Remaking Cavestory in C++",
+      "description": "Remaking Cavestory in C++",
+      "link": "https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Refazendo Cavestory em C++",
+      "translated-description": "Refazendo Cavestory em C++",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 124
+    },
+    {
+      "name": "Reconstructing Cave Story",
+      "description": "Reconstructing Cave Story",
+      "link": "https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Reconstruindo a história da caverna",
+      "translated-description": "Reconstruindo a história da caverna",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 125
+    },
+    {
+      "name": "Space Invaders from Scratch",
+      "description": "Space Invaders from Scratch",
+      "link": "http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Game",
+      "translated-name": "Invasores do espaço do zero",
+      "translated-description": "Invasores do espaço do zero",
+      "translated-category": "Jogo",
+      "dificulty": "Hard",
+      "id": 126
+    },
+    {
+      "name": "Learn C# by Building a Simple RPG",
+      "description": "Learn C# by Building a Simple RPG",
+      "link": "http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Game",
+      "translated-name": "Aprenda C# construindo um RPG simples",
+      "translated-description": "Aprenda C# construindo um RPG simples",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 127
+    },
+    {
+      "name": "Creating a Roguelike Game in C#",
+      "description": "Creating a Roguelike Game in C#",
+      "link": "https://roguesharp.wordpress.com/",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Game",
+      "translated-name": "Criando um jogo Roguelike em C#",
+      "translated-description": "Criando um jogo Roguelike em C#",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 128
+    },
+    {
+      "name": "Build a C#/WPF RPG",
+      "description": "Build a C#/WPF RPG",
+      "link": "https://scottlilly.com/build-a-cwpf-rpg/",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Game",
+      "translated-name": "Crie um RPG C#/WPF",
+      "translated-description": "Crie um RPG C#/WPF",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 129
+    },
+    {
+      "name": "Games With Go",
+      "description": "Games With Go",
+      "link": "https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Game",
+      "translated-name": "Jogos com Go",
+      "translated-description": "Jogos com Go",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 130
+    },
+    {
+      "name": "Code a 2D Game Engine using Java - Full Course for Beginners",
+      "description": "Code a 2D Game Engine using Java - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=025QFeZfeyM",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Game",
+      "translated-name": "Codifique um mecanismo de jogo 2D usando Java - curso completo para iniciantes",
+      "translated-description": "Codifique um mecanismo de jogo 2D usando Java - curso completo para iniciantes",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 131
+    },
+    {
+      "name": "3D Game Development with LWJGL 3",
+      "description": "3D Game Development with LWJGL 3",
+      "link": "https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Game",
+      "translated-name": "Desenvolvimento de jogos 3D com LWJGL 3",
+      "translated-description": "Desenvolvimento de jogos 3D com LWJGL 3",
+      "translated-category": "Jogo",
+      "dificulty": "Hard",
+      "id": 132
+    },
+    {
+      "name": "2D breakout game using Phaser",
+      "description": "2D breakout game using Phaser",
+      "link": "https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Jogo de fuga 2D usando Phaser",
+      "translated-description": "Jogo de fuga 2D usando Phaser",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 133
+    },
+    {
+      "name": "How to Make Flappy Bird in HTML5 With Phaser",
+      "description": "How to Make Flappy Bird in HTML5 With Phaser",
+      "link": "http://www.lessmilk.com/tutorial/flappy-bird-phaser-1",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Como fazer Flappy Bird em HTML5 com Phaser",
+      "translated-description": "Como fazer Flappy Bird em HTML5 com Phaser",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 134
+    },
+    {
+      "name": "Developing Games with React, Redux, and SVG",
+      "description": "Developing Games with React, Redux, and SVG",
+      "link": "https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Desenvolvendo jogos com React, Redux e SVG",
+      "translated-description": "Desenvolvendo jogos com React, Redux e SVG",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 135
+    },
+    {
+      "name": "Build your own 8-Ball Pool game from scratch",
+      "description": "Build your own 8-Ball Pool game from scratch",
+      "link": "https://www.youtube.com/watch?v=aXwCrtAo4Wc",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Crie seu próprio jogo de sinuca 8-Ball do zero",
+      "translated-description": "Crie seu próprio jogo de sinuca 8-Ball do zero",
+      "translated-category": "Jogo",
+      "dificulty": "Insane",
+      "id": 136
+    },
+    {
+      "name": "How to Make Your First Roguelike",
+      "description": "How to Make Your First Roguelike",
+      "link": "https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Como fazer seu primeiro Roguelike",
+      "translated-description": "Como fazer seu primeiro Roguelike",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 137
+    },
+    {
+      "name": "Think like a programmer: How to build Snake using only JavaScript, HTML & CSS",
+      "description": "Think like a programmer: How to build Snake using only JavaScript, HTML & CSS",
+      "link": "https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Game",
+      "translated-name": "Pense como um programador: como construir o Snake usando apenas JavaScript, HTML e CSS",
+      "translated-description": "Pense como um programador: como construir o Snake usando apenas JavaScript, HTML e CSS",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 138
+    },
+    {
+      "name": "BYTEPATH",
+      "description": "BYTEPATH",
+      "link": "https://github.com/SSYGEN/blog/issues/30",
+      "programing-language": [
+        "Lua"
+      ],
+      "category": "Game",
+      "translated-name": "BYTEPATH",
+      "translated-description": "BYTEPATH",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 139
+    },
+    {
+      "name": "Developing Games With PyGame",
+      "description": "Developing Games With PyGame",
+      "link": "https://pythonprogramming.net/pygame-python-3-part-1-intro/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Game",
+      "translated-name": "Desenvolvendo jogos com PyGame",
+      "translated-description": "Desenvolvendo jogos com PyGame",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 140
+    },
+    {
+      "name": "Making Games with Python & Pygame",
+      "description": "Making Games with Python & Pygame",
+      "link": "https://inventwithpython.com/makinggames.pdf",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Game",
+      "translated-name": "Fazendo jogos com Python e Pygame",
+      "translated-description": "Fazendo jogos com Python e Pygame",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 141
+    },
+    {
+      "name": "Roguelike Tutorial Revised",
+      "description": "Roguelike Tutorial Revised",
+      "link": "http://rogueliketutorials.com/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Game",
+      "translated-name": "Tutorial Roguelike revisado",
+      "translated-description": "Tutorial Roguelike revisado",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 142
+    },
+    {
+      "name": "Developing Games With Ruby",
+      "description": "Developing Games With Ruby",
+      "link": "https://leanpub.com/developing-games-with-ruby/read",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Game",
+      "translated-name": "Desenvolvendo jogos com Ruby",
+      "translated-description": "Desenvolvendo jogos com Ruby",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 143
+    },
+    {
+      "name": "Ruby Snake",
+      "description": "Ruby Snake",
+      "link": "https://www.diatomenterprises.com/gamedev-on-ruby-why-not/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Game",
+      "translated-name": "Cobra Rubi",
+      "translated-description": "Cobra Rubi",
+      "translated-category": "Jogo",
+      "dificulty": "Easy",
+      "id": 144
+    },
+    {
+      "name": "Adventures in Rust: A Basic 2D Game",
+      "description": "Adventures in Rust: A Basic 2D Game",
+      "link": "https://a5huynh.github.io/posts/2018/adventures-in-rust/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Game",
+      "translated-name": "Adventures in Rust: um jogo 2D básico",
+      "translated-description": "Adventures in Rust: um jogo 2D básico",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 145
+    },
+    {
+      "name": "Roguelike Tutorial in Rust + tcod",
+      "description": "Roguelike Tutorial in Rust + tcod",
+      "link": "https://tomassedovic.github.io/roguelike-tutorial/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Game",
+      "translated-name": "Tutorial Roguelike em Rust + tcod",
+      "translated-description": "Tutorial Roguelike em Rust + tcod",
+      "translated-category": "Jogo",
+      "dificulty": "Medium",
+      "id": 146
+    },
+    {
+      "name": "Reimplementing “git clone” in Haskell from the bottom up",
+      "description": "Reimplementing “git clone” in Haskell from the bottom up",
+      "link": "http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Git",
+      "translated-name": "Reimplementando “git clone” em Haskell de baixo para cima",
+      "translated-description": "Reimplementando “git clone” em Haskell de baixo para cima",
+      "translated-category": "Git",
+      "dificulty": "Hard",
+      "id": 147
+    },
+    {
+      "name": "Gitlet",
+      "description": "Gitlet",
+      "link": "http://gitlet.maryrosecook.com/docs/gitlet.html",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Git",
+      "translated-name": "Gitlet",
+      "translated-description": "Gitlet",
+      "translated-category": "Git",
+      "dificulty": "Medium",
+      "id": 148
+    },
+    {
+      "name": "Build GIT - Learn GIT",
+      "description": "Build GIT - Learn GIT",
+      "link": "https://kushagra.dev/blog/build-git-learn-git/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Git",
+      "translated-name": "Construa GIT - Aprenda GIT",
+      "translated-description": "Construa GIT - Aprenda GIT",
+      "translated-category": "Git",
+      "dificulty": "Medium",
+      "id": 149
+    },
+    {
+      "name": "Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+      "description": "Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+      "link": "https://benhoyt.com/writings/pygit/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Git",
+      "translated-name": "Apenas o suficiente de um cliente Git para criar um repositório, confirmar e enviar para o GitHub",
+      "translated-description": "Apenas o suficiente de um cliente Git para criar um repositório, confirmar e enviar para o GitHub",
+      "translated-category": "Git",
+      "dificulty": "Easy",
+      "id": 150
+    },
+    {
+      "name": "Write yourself a Git!",
+      "description": "Write yourself a Git!",
+      "link": "https://wyag.thb.lt/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Git",
+      "translated-name": "Escreva um Git para você!",
+      "translated-description": "Escreva um Git para você!",
+      "translated-category": "Git",
+      "dificulty": "Easy",
+      "id": 151
+    },
+    {
+      "name": "ugit: Learn Git Internals by Building Git Yourself",
+      "description": "ugit: Learn Git Internals by Building Git Yourself",
+      "link": "https://www.leshenko.net/p/ugit/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Git",
+      "translated-name": "ugit: Aprenda os aspectos internos do Git construindo você mesmo o Git",
+      "translated-description": "ugit: Aprenda os aspectos internos do Git construindo você mesmo o Git",
+      "translated-category": "Git",
+      "dificulty": "Easy",
+      "id": 152
+    },
+    {
+      "name": "Rebuilding Git in Ruby",
+      "description": "Rebuilding Git in Ruby",
+      "link": "https://robots.thoughtbot.com/rebuilding-git-in-ruby",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Git",
+      "translated-name": "Reconstruindo Git em Ruby",
+      "translated-description": "Reconstruindo Git em Ruby",
+      "translated-category": "Git",
+      "dificulty": "Easy",
+      "id": 153
+    },
+    {
+      "name": "Beej's Guide to Network Programming",
+      "description": "Beej's Guide to Network Programming",
+      "link": "http://beej.us/guide/bgnet/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Network Stack",
+      "translated-name": "Guia de Beej para programação de rede",
+      "translated-description": "Guia de Beej para programação de rede",
+      "translated-category": "Pilha de rede",
+      "dificulty": "Medium",
+      "id": 154
+    },
+    {
+      "name": "Let's code a TCP/IP stack",
+      "description": "Let's code a TCP/IP stack",
+      "link": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Network Stack",
+      "translated-name": "Vamos codificar uma pilha TCP/IP",
+      "translated-description": "Vamos codificar uma pilha TCP/IP",
+      "translated-category": "Pilha de rede",
+      "dificulty": "Medium",
+      "id": 155
+    },
+    {
+      "name": "Build your own VPN/Virtual Switch",
+      "description": "Build your own VPN/Virtual Switch",
+      "link": "https://github.com/peiyuanix/build-your-own-zerotier",
+      "programing-language": [
+        "C / Python"
+      ],
+      "category": "Network Stack",
+      "translated-name": "Crie seu próprio switch VPN/virtual",
+      "translated-description": "Crie seu próprio switch VPN/virtual",
+      "translated-category": "Pilha de rede",
+      "dificulty": "Hard",
+      "id": 156
+    },
+    {
+      "name": "How to build a network stack in Ruby",
+      "description": "How to build a network stack in Ruby",
+      "link": "https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Network Stack",
+      "translated-name": "Como construir uma pilha de rede em Ruby",
+      "translated-description": "Como construir uma pilha de rede em Ruby",
+      "translated-category": "Pilha de rede",
+      "dificulty": "Easy",
+      "id": 157
+    },
+    {
+      "name": "Neural Network OCR",
+      "description": "Neural Network OCR",
+      "link": "https://www.codeproject.com/Articles/11285/Neural-Network-OCR",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Neural Network",
+      "translated-name": "OCR de rede neural",
+      "translated-description": "OCR de rede neural",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 158
+    },
+    {
+      "name": "Building Neural Networks in F#",
+      "description": "Building Neural Networks in F#",
+      "link": "https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6",
+      "programing-language": [
+        "F#"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Construindo Redes Neurais em F#",
+      "translated-description": "Construindo Redes Neurais em F#",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 159
+    },
+    {
+      "name": "Build a multilayer perceptron with Golang",
+      "description": "Build a multilayer perceptron with Golang",
+      "link": "https://made2591.github.io/posts/neuralnetwork",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Construa um perceptron multicamadas com Golang",
+      "translated-description": "Construa um perceptron multicamadas com Golang",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 160
+    },
+    {
+      "name": "How to build a simple artificial neural network with Go",
+      "description": "How to build a simple artificial neural network with Go",
+      "link": "https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Como construir uma rede neural artificial simples com Go",
+      "translated-description": "Como construir uma rede neural artificial simples com Go",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 161
+    },
+    {
+      "name": "Building a Neural Net from Scratch in Go",
+      "description": "Building a Neural Net from Scratch in Go",
+      "link": "https://datadan.io/blog/neural-net-with-go",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Construindo uma rede neural do zero em Go",
+      "translated-description": "Construindo uma rede neural do zero em Go",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 162
+    },
+    {
+      "name": "Neural Networks - The Nature of Code",
+      "description": "Neural Networks - The Nature of Code",
+      "link": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh",
+      "programing-language": [
+        "JavaScript / Java"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Redes Neurais – A Natureza do Código",
+      "translated-description": "Redes Neurais – A Natureza do Código",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 163
+    },
+    {
+      "name": "Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)",
+      "description": "Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)",
+      "link": "https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Redes neurais do zero para linguistas JavaScript (Parte 1 — O Perceptron)",
+      "translated-description": "Redes neurais do zero para linguistas JavaScript (Parte 1 — O Perceptron)",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 164
+    },
+    {
+      "name": "A Neural Network in 11 lines of Python",
+      "description": "A Neural Network in 11 lines of Python",
+      "link": "https://iamtrask.github.io/2015/07/12/basic-python-network/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Uma rede neural em 11 linhas de Python",
+      "translated-description": "Uma rede neural em 11 linhas de Python",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 165
+    },
+    {
+      "name": "Implement a Neural Network from Scratch",
+      "description": "Implement a Neural Network from Scratch",
+      "link": "https://victorzhou.com/blog/intro-to-neural-networks/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Implemente uma rede neural do zero",
+      "translated-description": "Implemente uma rede neural do zero",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 166
+    },
+    {
+      "name": "Optical Character Recognition (OCR)",
+      "description": "Optical Character Recognition (OCR)",
+      "link": "http://aosabook.org/en/500L/optical-character-recognition-ocr.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Reconhecimento Óptico de Caracteres (OCR)",
+      "translated-description": "Reconhecimento Óptico de Caracteres (OCR)",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 167
+    },
+    {
+      "name": "Traffic signs classification with a convolutional network",
+      "description": "Traffic signs classification with a convolutional network",
+      "link": "https://navoshta.com/traffic-signs-classification/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Classificação de sinais de trânsito com rede convolucional",
+      "translated-description": "Classificação de sinais de trânsito com rede convolucional",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 168
+    },
+    {
+      "name": "Generate Music using LSTM Neural Network in Keras",
+      "description": "Generate Music using LSTM Neural Network in Keras",
+      "link": "https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Gere música usando rede neural LSTM em Keras",
+      "translated-description": "Gere música usando rede neural LSTM em Keras",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 169
+    },
+    {
+      "name": "An Introduction to Convolutional Neural Networks",
+      "description": "An Introduction to Convolutional Neural Networks",
+      "link": "https://victorzhou.com/blog/intro-to-cnns-part-1/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Uma introdução às redes neurais convolucionais",
+      "translated-description": "Uma introdução às redes neurais convolucionais",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 170
+    },
+    {
+      "name": "Neural Networks: Zero to Hero",
+      "description": "Neural Networks: Zero to Hero",
+      "link": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Neural Network",
+      "translated-name": "Redes Neurais: Zero a Herói",
+      "translated-description": "Redes Neurais: Zero a Herói",
+      "translated-category": "Rede Neural",
+      "dificulty": "Insane",
+      "id": 171
+    },
+    {
+      "name": "Writing a Tiny x86 Bootloader",
+      "description": "Writing a Tiny x86 Bootloader",
+      "link": "http://joebergeron.io/posts/post_two.html",
+      "programing-language": [
+        "Assembly"
+      ],
+      "category": "Operating System",
+      "translated-name": "Escrevendo um bootloader x86 minúsculo",
+      "translated-description": "Escrevendo um bootloader x86 minúsculo",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 172
+    },
+    {
+      "name": "Baking Pi – Operating Systems Development",
+      "description": "Baking Pi – Operating Systems Development",
+      "link": "http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html",
+      "programing-language": [
+        "Assembly"
+      ],
+      "category": "Operating System",
+      "translated-name": "Baking Pi – Desenvolvimento de Sistemas Operacionais",
+      "translated-description": "Baking Pi – Desenvolvimento de Sistemas Operacionais",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 173
+    },
+    {
+      "name": "Building a software and hardware stack for a simple computer from scratch",
+      "description": "Building a software and hardware stack for a simple computer from scratch",
+      "link": "https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Construindo uma pilha de software e hardware para um computador simples do zero",
+      "translated-description": "Construindo uma pilha de software e hardware para um computador simples do zero",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 174
+    },
+    {
+      "name": "Operating Systems: From 0 to 1",
+      "description": "Operating Systems: From 0 to 1",
+      "link": "https://tuhdo.github.io/os01/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Sistemas Operacionais: De 0 a 1",
+      "translated-description": "Sistemas Operacionais: De 0 a 1",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 175
+    },
+    {
+      "name": "The little book about OS development",
+      "description": "The little book about OS development",
+      "link": "https://littleosbook.github.io/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "O livrinho sobre desenvolvimento de sistema operacional",
+      "translated-description": "O livrinho sobre desenvolvimento de sistema operacional",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 176
+    },
+    {
+      "name": "Roll your own toy UNIX-clone OS",
+      "description": "Roll your own toy UNIX-clone OS",
+      "link": "http://jamesmolloy.co.uk/tutorial_html/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Crie seu próprio sistema operacional clone do UNIX de brinquedo",
+      "translated-description": "Crie seu próprio sistema operacional clone do UNIX de brinquedo",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 177
+    },
+    {
+      "name": "Kernel 101 – Let’s write a Kernel",
+      "description": "Kernel 101 – Let’s write a Kernel",
+      "link": "https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Kernel 101 – Vamos escrever um Kernel",
+      "translated-description": "Kernel 101 – Vamos escrever um Kernel",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 178
+    },
+    {
+      "name": "Kernel 201 – Let’s write a Kernel with keyboard and screen support",
+      "description": "Kernel 201 – Let’s write a Kernel with keyboard and screen support",
+      "link": "https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Kernel 201 – Vamos escrever um Kernel com suporte para teclado e tela",
+      "translated-description": "Kernel 201 – Vamos escrever um Kernel com suporte para teclado e tela",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 179
+    },
+    {
+      "name": "Build a minimal multi-tasking kernel for ARM from scratch",
+      "description": "Build a minimal multi-tasking kernel for ARM from scratch",
+      "link": "https://github.com/jserv/mini-arm-os",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Construa um kernel multitarefa mínimo para ARM do zero",
+      "translated-description": "Construa um kernel multitarefa mínimo para ARM do zero",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 180
+    },
+    {
+      "name": "How to create an OS from scratch",
+      "description": "How to create an OS from scratch",
+      "link": "https://github.com/cfenollosa/os-tutorial",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Como criar um sistema operacional do zero",
+      "translated-description": "Como criar um sistema operacional do zero",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 181
+    },
+    {
+      "name": "Malloc tutorial",
+      "description": "Malloc tutorial",
+      "link": "https://danluu.com/malloc-tutorial/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Tutorial de Malloc",
+      "translated-description": "Tutorial de Malloc",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 182
+    },
+    {
+      "name": "Hack the virtual memory",
+      "description": "Hack the virtual memory",
+      "link": "https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Hackeie a memória virtual",
+      "translated-description": "Hackeie a memória virtual",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 183
+    },
+    {
+      "name": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "link": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Aprendendo o desenvolvimento de sistemas operacionais usando kernel Linux e Raspberry Pi",
+      "translated-description": "Aprendendo o desenvolvimento de sistemas operacionais usando kernel Linux e Raspberry Pi",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 184
+    },
+    {
+      "name": "Operating systems development for Dummies",
+      "description": "Operating systems development for Dummies",
+      "link": "https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Operating System",
+      "translated-name": "Desenvolvimento de sistemas operacionais para leigos",
+      "translated-description": "Desenvolvimento de sistemas operacionais para leigos",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 185
+    },
+    {
+      "name": "Write your own Operating System",
+      "description": "Write your own Operating System",
+      "link": "https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Operating System",
+      "translated-name": "Escreva seu próprio sistema operacional",
+      "translated-description": "Escreva seu próprio sistema operacional",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 186
+    },
+    {
+      "name": "Writing a Bootloader",
+      "description": "Writing a Bootloader",
+      "link": "http://3zanders.co.uk/2017/10/13/writing-a-bootloader/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Operating System",
+      "translated-name": "Escrevendo um bootloader",
+      "translated-description": "Escrevendo um bootloader",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 187
+    },
+    {
+      "name": "Writing an OS in Rust",
+      "description": "Writing an OS in Rust",
+      "link": "https://os.phil-opp.com/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Operating System",
+      "translated-name": "Escrevendo um sistema operacional em Rust",
+      "translated-description": "Escrevendo um sistema operacional em Rust",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 188
+    },
+    {
+      "name": "Add RISC-V Rust Operating System Tutorial",
+      "description": "Add RISC-V Rust Operating System Tutorial",
+      "link": "https://osblog.stephenmarz.com/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Operating System",
+      "translated-name": "Adicionar tutorial do sistema operacional RISC-V Rust",
+      "translated-description": "Adicionar tutorial do sistema operacional RISC-V Rust",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 189
+    },
+    {
+      "name": "Linux from scratch",
+      "description": "Linux from scratch",
+      "link": "https://linuxfromscratch.org/lfs",
+      "programing-language": [
+        "(any)"
+      ],
+      "category": "Operating System",
+      "translated-name": "Linux do zero",
+      "translated-description": "Linux do zero",
+      "translated-category": "Sistema operacional",
+      "dificulty": "Insane",
+      "id": 190
+    },
+    {
+      "name": "Video Game Physics Tutorial",
+      "description": "Video Game Physics Tutorial",
+      "link": "https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Tutorial de física de videogame",
+      "translated-description": "Tutorial de física de videogame",
+      "translated-category": "Motor de Física",
+      "dificulty": "Insane",
+      "id": 191
+    },
+    {
+      "name": "Game physics series by Allen Chou",
+      "description": "Game physics series by Allen Chou",
+      "link": "http://allenchou.net/game-physics-series/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Série de física de jogos de Allen Chou",
+      "translated-description": "Série de física de jogos de Allen Chou",
+      "translated-category": "Motor de Física",
+      "dificulty": "Hard",
+      "id": 192
+    },
+    {
+      "name": "How to Create a Custom Physics Engine",
+      "description": "How to Create a Custom Physics Engine",
+      "link": "https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Como criar um mecanismo de física personalizado",
+      "translated-description": "Como criar um mecanismo de física personalizado",
+      "translated-category": "Motor de Física",
+      "dificulty": "Hard",
+      "id": 193
+    },
+    {
+      "name": "3D Physics Engine Tutorial",
+      "description": "3D Physics Engine Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Tutorial do mecanismo de física 3D",
+      "translated-description": "Tutorial do mecanismo de física 3D",
+      "translated-category": "Motor de Física",
+      "dificulty": "Insane",
+      "id": 194
+    },
+    {
+      "name": "How Physics Engines Work",
+      "description": "How Physics Engines Work",
+      "link": "http://buildnewgames.com/gamephysics/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Como funcionam os motores físicos",
+      "translated-description": "Como funcionam os motores físicos",
+      "translated-category": "Motor de Física",
+      "dificulty": "Hard",
+      "id": 195
+    },
+    {
+      "name": "Broad Phase Collision Detection Using Spatial Partitioning",
+      "description": "Broad Phase Collision Detection Using Spatial Partitioning",
+      "link": "http://buildnewgames.com/broad-phase-collision-detection/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Detecção de colisão de fase ampla usando particionamento espacial",
+      "translated-description": "Detecção de colisão de fase ampla usando particionamento espacial",
+      "translated-category": "Motor de Física",
+      "dificulty": "Hard",
+      "id": 196
+    },
+    {
+      "name": "Build a simple 2D physics engine for JavaScript games",
+      "description": "Build a simple 2D physics engine for JavaScript games",
+      "link": "https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Physics Engine",
+      "translated-name": "Crie um mecanismo de física 2D simples para jogos JavaScript",
+      "translated-description": "Crie um mecanismo de física 2D simples para jogos JavaScript",
+      "translated-category": "Motor de Física",
+      "dificulty": "Hard",
+      "id": 197
+    },
+    {
+      "name": "mal - Make a Lisp",
+      "description": "mal - Make a Lisp",
+      "link": "https://github.com/kanaka/mal#mal---make-a-lisp",
+      "programing-language": [
+        "(any)"
+      ],
+      "category": "Programming Language",
+      "translated-name": "mal - Faça um Lisp",
+      "translated-description": "mal - Faça um Lisp",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 198
+    },
+    {
+      "name": "Jonesforth",
+      "description": "Jonesforth",
+      "link": "https://github.com/nornagon/jonesforth/blob/master/jonesforth.S",
+      "programing-language": [
+        "Assembly"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Jonesforth",
+      "translated-description": "Jonesforth",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 199
+    },
+    {
+      "name": "Baby's First Garbage Collector",
+      "description": "Baby's First Garbage Collector",
+      "link": "http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "O primeiro coletor de lixo do bebê",
+      "translated-description": "O primeiro coletor de lixo do bebê",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 200
+    },
+    {
+      "name": "Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code",
+      "description": "Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code",
+      "link": "http://www.buildyourownlisp.com/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Construa seu próprio Lisp: Aprenda C e construa sua própria linguagem de programação em 1000 linhas de código",
+      "translated-description": "Construa seu próprio Lisp: Aprenda C e construa sua própria linguagem de programação em 1000 linhas de código",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Hard",
+      "id": 201
+    },
+    {
+      "name": "Writing a Simple Garbage Collector in C",
+      "description": "Writing a Simple Garbage Collector in C",
+      "link": "http://maplant.com/gc.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escrevendo um coletor de lixo simples em C",
+      "translated-description": "Escrevendo um coletor de lixo simples em C",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Hard",
+      "id": 202
+    },
+    {
+      "name": "C interpreter that interprets itself.",
+      "description": "C interpreter that interprets itself.",
+      "link": "https://github.com/lotabout/write-a-C-interpreter",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Intérprete C que interpreta a si mesmo.",
+      "translated-description": "Intérprete C que interpreta a si mesmo.",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 203
+    },
+    {
+      "name": "A C & x86 version of the \"Let's Build a Compiler\" by Jack Crenshaw",
+      "description": "A C & x86 version of the \"Let's Build a Compiler\" by Jack Crenshaw",
+      "link": "https://github.com/lotabout/Let-s-build-a-compiler",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Uma versão C e x86 de \"Let's Build a Compiler\" de Jack Crenshaw",
+      "translated-description": "Uma versão C e x86 de \"Let's Build a Compiler\" de Jack Crenshaw",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 204
+    },
+    {
+      "name": "A journey explaining how to build a compiler from scratch",
+      "description": "A journey explaining how to build a compiler from scratch",
+      "link": "https://github.com/DoctorWkt/acwj",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Uma jornada explicando como construir um compilador do zero",
+      "translated-description": "Uma jornada explicando como construir um compilador do zero",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 205
+    },
+    {
+      "name": "Writing Your Own Toy Compiler Using Flex",
+      "description": "Writing Your Own Toy Compiler Using Flex",
+      "link": "https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escrevendo seu próprio compilador de brinquedos usando Flex",
+      "translated-description": "Escrevendo seu próprio compilador de brinquedos usando Flex",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 206
+    },
+    {
+      "name": "How to Create a Compiler",
+      "description": "How to Create a Compiler",
+      "link": "https://www.youtube.com/watch?v=eF9qWbuQLuw",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Como criar um compilador",
+      "translated-description": "Como criar um compilador",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 207
+    },
+    {
+      "name": "Kaleidoscope: Implementing a Language with LLVM",
+      "description": "Kaleidoscope: Implementing a Language with LLVM",
+      "link": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Caleidoscópio: Implementando uma Linguagem com LLVM",
+      "translated-description": "Caleidoscópio: Implementando uma Linguagem com LLVM",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 208
+    },
+    {
+      "name": "Understanding Parser Combinators",
+      "description": "Understanding Parser Combinators",
+      "link": "https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/",
+      "programing-language": [
+        "F#"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Noções básicas sobre combinadores de analisador",
+      "translated-description": "Noções básicas sobre combinadores de analisador",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 209
+    },
+    {
+      "name": "Demystifying compilers by writing your own",
+      "description": "Demystifying compilers by writing your own",
+      "link": "https://www.youtube.com/watch?v=zMJYoYwOCd4",
+      "programing-language": [
+        "Elixir"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Desmistificando compiladores escrevendo seus próprios",
+      "translated-description": "Desmistificando compiladores escrevendo seus próprios",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 210
+    },
+    {
+      "name": "The Super Tiny Compiler",
+      "description": "The Super Tiny Compiler",
+      "link": "https://github.com/hazbo/the-super-tiny-compiler",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Programming Language",
+      "translated-name": "O compilador superminúsculo",
+      "translated-description": "O compilador superminúsculo",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 211
+    },
+    {
+      "name": "Lexical Scanning in Go",
+      "description": "Lexical Scanning in Go",
+      "link": "https://www.youtube.com/watch?v=HxaD_trXwRE",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Varredura Lexical em Go",
+      "translated-description": "Varredura Lexical em Go",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 212
+    },
+    {
+      "name": "Let's Build a Compiler",
+      "description": "Let's Build a Compiler",
+      "link": "https://g-ford.github.io/cradle/",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Vamos construir um compilador",
+      "translated-description": "Vamos construir um compilador",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 213
+    },
+    {
+      "name": "Write You a Haskell",
+      "description": "Write You a Haskell",
+      "link": "http://dev.stephendiehl.com/fun/",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escreva um Haskell para você",
+      "translated-description": "Escreva um Haskell para você",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 214
+    },
+    {
+      "name": "Write Yourself a Scheme in 48 Hours",
+      "description": "Write Yourself a Scheme in 48 Hours",
+      "link": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escreva um esquema para você mesmo em 48 horas",
+      "translated-description": "Escreva um esquema para você mesmo em 48 horas",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 215
+    },
+    {
+      "name": "Write You A Scheme",
+      "description": "Write You A Scheme",
+      "link": "https://www.wespiser.com/writings/wyas/home.html",
+      "programing-language": [
+        "Haskell"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escreva um esquema para você",
+      "translated-description": "Escreva um esquema para você",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 216
+    },
+    {
+      "name": "Crafting interpreters: A handbook for making programming languages",
+      "description": "Crafting interpreters: A handbook for making programming languages",
+      "link": "http://www.craftinginterpreters.com/",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Criando intérpretes: um manual para criar linguagens de programação",
+      "translated-description": "Criando intérpretes: um manual para criar linguagens de programação",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 217
+    },
+    {
+      "name": "Creating JVM Language",
+      "description": "Creating JVM Language",
+      "link": "http://jakubdziworski.github.io/categories.html#Enkel-ref",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Criando linguagem JVM",
+      "translated-description": "Criando linguagem JVM",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Hard",
+      "id": 218
+    },
+    {
+      "name": "The Super Tiny Compiler",
+      "description": "The Super Tiny Compiler",
+      "link": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "O compilador superminúsculo",
+      "translated-description": "O compilador superminúsculo",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 219
+    },
+    {
+      "name": "The Super Tiny Interpreter",
+      "description": "The Super Tiny Interpreter",
+      "link": "https://github.com/keyanzhang/the-super-tiny-interpreter",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "O Intérprete Super Minúsculo",
+      "translated-description": "O Intérprete Super Minúsculo",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 220
+    },
+    {
+      "name": "Little Lisp interpreter",
+      "description": "Little Lisp interpreter",
+      "link": "https://maryrosecook.com/blog/post/little-lisp-interpreter",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Intérprete Little Lisp",
+      "translated-description": "Intérprete Little Lisp",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 221
+    },
+    {
+      "name": "How to implement a programming language in JavaScript",
+      "description": "How to implement a programming language in JavaScript",
+      "link": "http://lisperator.net/pltut/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Como implementar uma linguagem de programação em JavaScript",
+      "translated-description": "Como implementar uma linguagem de programação em JavaScript",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Hard",
+      "id": 222
+    },
+    {
+      "name": "Let’s go write a Lisp",
+      "description": "Let’s go write a Lisp",
+      "link": "https://idiocy.org/lets-go-write-a-lisp/part-1.html",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Vamos escrever um Lisp",
+      "translated-description": "Vamos escrever um Lisp",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 223
+    },
+    {
+      "name": "Writing a C Compiler",
+      "description": "Writing a C Compiler",
+      "link": "https://norasandler.com/2017/11/29/Write-a-Compiler.html",
+      "programing-language": [
+        "OCaml"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escrevendo um compilador C",
+      "translated-description": "Escrevendo um compilador C",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 224
+    },
+    {
+      "name": "Writing a Lisp, the series",
+      "description": "Writing a Lisp, the series",
+      "link": "https://bernsteinbear.com/blog/lisp/",
+      "programing-language": [
+        "OCaml"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Escrevendo um Lisp, a série",
+      "translated-description": "Escrevendo um Lisp, a série",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Hard",
+      "id": 225
+    },
+    {
+      "name": "Let's Build a Compiler",
+      "description": "Let's Build a Compiler",
+      "link": "https://compilers.iecc.com/crenshaw/",
+      "programing-language": [
+        "Pascal"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Vamos construir um compilador",
+      "translated-description": "Vamos construir um compilador",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 226
+    },
+    {
+      "name": "A Python Interpreter Written in Python",
+      "description": "A Python Interpreter Written in Python",
+      "link": "http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Um intérprete Python escrito em Python",
+      "translated-description": "Um intérprete Python escrito em Python",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 227
+    },
+    {
+      "name": "lisp.py: Make your own Lisp interpreter",
+      "description": "lisp.py: Make your own Lisp interpreter",
+      "link": "http://khamidou.com/compilers/lisp.py/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "lisp.py: Faça seu próprio interpretador Lisp",
+      "translated-description": "lisp.py: Faça seu próprio interpretador Lisp",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 228
+    },
+    {
+      "name": "How to Write a Lisp Interpreter in Python",
+      "description": "How to Write a Lisp Interpreter in Python",
+      "link": "http://norvig.com/lispy.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Como escrever um interpretador Lisp em Python",
+      "translated-description": "Como escrever um interpretador Lisp em Python",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 229
+    },
+    {
+      "name": "Let’s Build A Simple Interpreter",
+      "description": "Let’s Build A Simple Interpreter",
+      "link": "https://ruslanspivak.com/lsbasi-part1/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Vamos construir um intérprete simples",
+      "translated-description": "Vamos construir um intérprete simples",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 230
+    },
+    {
+      "name": "Make Your Own Simple Interpreted Programming Language",
+      "description": "Make Your Own Simple Interpreted Programming Language",
+      "link": "https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Faça sua própria linguagem de programação simples e interpretada",
+      "translated-description": "Faça sua própria linguagem de programação simples e interpretada",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Easy",
+      "id": 231
+    },
+    {
+      "name": "From Source Code To Machine Code: Build Your Own Compiler From Scratch",
+      "description": "From Source Code To Machine Code: Build Your Own Compiler From Scratch",
+      "link": "https://build-your-own.org/compiler/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Do código-fonte ao código de máquina: construa seu próprio compilador do zero",
+      "translated-description": "Do código-fonte ao código de máquina: construa seu próprio compilador do zero",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 232
+    },
+    {
+      "name": "Beautiful Racket: How to make your own programming languages with Racket",
+      "description": "Beautiful Racket: How to make your own programming languages with Racket",
+      "link": "https://beautifulracket.com/",
+      "programing-language": [
+        "Racket"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Beautiful Racket: Como fazer suas próprias linguagens de programação com Racket",
+      "translated-description": "Beautiful Racket: Como fazer suas próprias linguagens de programação com Racket",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 233
+    },
+    {
+      "name": "A Compiler From Scratch",
+      "description": "A Compiler From Scratch",
+      "link": "https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Um compilador do zero",
+      "translated-description": "Um compilador do zero",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 234
+    },
+    {
+      "name": "Markdown compiler from scratch in Ruby",
+      "description": "Markdown compiler from scratch in Ruby",
+      "link": "https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Compilador Markdown do zero em Ruby",
+      "translated-description": "Compilador Markdown do zero em Ruby",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 235
+    },
+    {
+      "name": "Learning Parser Combinators With Rust",
+      "description": "Learning Parser Combinators With Rust",
+      "link": "https://bodil.lol/parser-combinators/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Aprendendo combinadores de analisador com ferrugem",
+      "translated-description": "Aprendendo combinadores de analisador com ferrugem",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 236
+    },
+    {
+      "name": "Building a LISP from scratch with Swift",
+      "description": "Building a LISP from scratch with Swift",
+      "link": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/",
+      "programing-language": [
+        "Swift"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Construindo um LISP do zero com Swift",
+      "translated-description": "Construindo um LISP do zero com Swift",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Medium",
+      "id": 237
+    },
+    {
+      "name": "Build your own WebAssembly Compiler",
+      "description": "Build your own WebAssembly Compiler",
+      "link": "https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html",
+      "programing-language": [
+        "TypeScript"
+      ],
+      "category": "Programming Language",
+      "translated-name": "Construa seu próprio compilador WebAssembly",
+      "translated-description": "Construa seu próprio compilador WebAssembly",
+      "translated-category": "Linguagem de programação",
+      "dificulty": "Insane",
+      "id": 238
+    },
+    {
+      "name": "A Regular Expression Matcher",
+      "description": "A Regular Expression Matcher",
+      "link": "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Um correspondente de expressão regular",
+      "translated-description": "Um correspondente de expressão regular",
+      "translated-category": "Motor Regex",
+      "dificulty": "Medium",
+      "id": 239
+    },
+    {
+      "name": "Regular Expression Matching Can Be Simple And Fast",
+      "description": "Regular Expression Matching Can Be Simple And Fast",
+      "link": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "A correspondência de expressões regulares pode ser simples e rápida",
+      "translated-description": "A correspondência de expressões regulares pode ser simples e rápida",
+      "translated-category": "Motor Regex",
+      "dificulty": "Medium",
+      "id": 240
+    },
+    {
+      "name": "How to build a regex engine from scratch",
+      "description": "How to build a regex engine from scratch",
+      "link": "https://rhaeguard.github.io/posts/regex",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Como construir um mecanismo regex do zero",
+      "translated-description": "Como construir um mecanismo regex do zero",
+      "translated-category": "Motor Regex",
+      "dificulty": "Hard",
+      "id": 241
+    },
+    {
+      "name": "Build a Regex Engine in Less than 40 Lines of Code",
+      "description": "Build a Regex Engine in Less than 40 Lines of Code",
+      "link": "https://nickdrane.com/build-your-own-regex/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Construa um mecanismo Regex em menos de 40 linhas de código",
+      "translated-description": "Construa um mecanismo Regex em menos de 40 linhas de código",
+      "translated-category": "Motor Regex",
+      "dificulty": "Medium",
+      "id": 242
+    },
+    {
+      "name": "How to implement regular expressions in functional javascript using derivatives",
+      "description": "How to implement regular expressions in functional javascript using derivatives",
+      "link": "http://dpk.io/dregs/toydregs",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Como implementar expressões regulares em javascript funcional usando derivadas",
+      "translated-description": "Como implementar expressões regulares em javascript funcional usando derivadas",
+      "translated-category": "Motor Regex",
+      "dificulty": "Hard",
+      "id": 243
+    },
+    {
+      "name": "Implementing a Regular Expression Engine",
+      "description": "Implementing a Regular Expression Engine",
+      "link": "https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Implementando um mecanismo de expressão regular",
+      "translated-description": "Implementando um mecanismo de expressão regular",
+      "translated-category": "Motor Regex",
+      "dificulty": "Hard",
+      "id": 244
+    },
+    {
+      "name": "How Regexes Work",
+      "description": "How Regexes Work",
+      "link": "https://perl.plover.com/Regex/article.html",
+      "programing-language": [
+        "Perl"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Como funcionam os regexes",
+      "translated-description": "Como funcionam os regexes",
+      "translated-category": "Motor Regex",
+      "dificulty": "Easy",
+      "id": 245
+    },
+    {
+      "name": "Build Your Own Regular Expression Engines: Backtracking, NFA, DFA",
+      "description": "Build Your Own Regular Expression Engines: Backtracking, NFA, DFA",
+      "link": "https://build-your-own.org/b2a/r0_intro",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Construa seus próprios mecanismos de expressão regular: Backtracking, NFA, DFA",
+      "translated-description": "Construa seus próprios mecanismos de expressão regular: Backtracking, NFA, DFA",
+      "translated-category": "Motor Regex",
+      "dificulty": "Medium",
+      "id": 246
+    },
+    {
+      "name": "No Magic: Regular Expressions",
+      "description": "No Magic: Regular Expressions",
+      "link": "https://rcoh.svbtle.com/no-magic-regular-expressions",
+      "programing-language": [
+        "Scala"
+      ],
+      "category": "Regex Engine",
+      "translated-name": "Sem mágica: expressões regulares",
+      "translated-description": "Sem mágica: expressões regulares",
+      "translated-category": "Motor Regex",
+      "dificulty": "Medium",
+      "id": 247
+    },
+    {
+      "name": "A search engine in CSS",
+      "description": "A search engine in CSS",
+      "link": "https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97",
+      "programing-language": [
+        "CSS"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Um mecanismo de pesquisa em CSS",
+      "translated-description": "Um mecanismo de pesquisa em CSS",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Medium",
+      "id": 248
+    },
+    {
+      "name": "Building a search engine using Redis and redis-py",
+      "description": "Building a search engine using Redis and redis-py",
+      "link": "http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Construindo um mecanismo de pesquisa usando Redis e redis-py",
+      "translated-description": "Construindo um mecanismo de pesquisa usando Redis e redis-py",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Medium",
+      "id": 249
+    },
+    {
+      "name": "Building a Vector Space Indexing Engine in Python",
+      "description": "Building a Vector Space Indexing Engine in Python",
+      "link": "https://boyter.org/2010/08/build-vector-space-search-engine-python/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Construindo um mecanismo de indexação de espaço vetorial em Python",
+      "translated-description": "Construindo um mecanismo de indexação de espaço vetorial em Python",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Easy",
+      "id": 250
+    },
+    {
+      "name": "Building A Python-Based Search Engine",
+      "description": "Building A Python-Based Search Engine",
+      "link": "https://www.youtube.com/watch?v=cY7pE7vX6MU",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Construindo um mecanismo de pesquisa baseado em Python",
+      "translated-description": "Construindo um mecanismo de pesquisa baseado em Python",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Easy",
+      "id": 251
+    },
+    {
+      "name": "Making text search learn from feedback",
+      "description": "Making text search learn from feedback",
+      "link": "https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Fazendo a pesquisa de texto aprender com o feedback",
+      "translated-description": "Fazendo a pesquisa de texto aprender com o feedback",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Easy",
+      "id": 252
+    },
+    {
+      "name": "Finding Important Words in Text Using TF-IDF",
+      "description": "Finding Important Words in Text Using TF-IDF",
+      "link": "https://stevenloria.com/tf-idf/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Search Engine",
+      "translated-name": "Encontrando palavras importantes no texto usando TF-IDF",
+      "translated-description": "Encontrando palavras importantes no texto usando TF-IDF",
+      "translated-category": "Mecanismo de pesquisa",
+      "dificulty": "Easy",
+      "id": 253
+    },
+    {
+      "name": "Tutorial - Write a Shell in C",
+      "description": "Tutorial - Write a Shell in C",
+      "link": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Shell",
+      "translated-name": "Tutorial - Escreva um Shell em C",
+      "translated-description": "Tutorial - Escreva um Shell em C",
+      "translated-category": "Concha",
+      "dificulty": "Medium",
+      "id": 254
+    },
+    {
+      "name": "Let's build a shell!",
+      "description": "Let's build a shell!",
+      "link": "https://github.com/kamalmarhubi/shell-workshop",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Shell",
+      "translated-name": "Vamos construir uma concha!",
+      "translated-description": "Vamos construir uma concha!",
+      "translated-category": "Concha",
+      "dificulty": "Medium",
+      "id": 255
+    },
+    {
+      "name": "Writing a UNIX Shell",
+      "description": "Writing a UNIX Shell",
+      "link": "https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Shell",
+      "translated-name": "Escrevendo um shell UNIX",
+      "translated-description": "Escrevendo um shell UNIX",
+      "translated-category": "Concha",
+      "dificulty": "Hard",
+      "id": 256
+    },
+    {
+      "name": "Build Your Own Shell",
+      "description": "Build Your Own Shell",
+      "link": "https://github.com/tokenrove/build-your-own-shell",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Shell",
+      "translated-name": "Construa sua própria concha",
+      "translated-description": "Construa sua própria concha",
+      "translated-category": "Concha",
+      "dificulty": "Hard",
+      "id": 257
+    },
+    {
+      "name": "Writing a simple shell in Go",
+      "description": "Writing a simple shell in Go",
+      "link": "https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Shell",
+      "translated-name": "Escrevendo um shell simples em Go",
+      "translated-description": "Escrevendo um shell simples em Go",
+      "translated-category": "Concha",
+      "dificulty": "Hard",
+      "id": 258
+    },
+    {
+      "name": "Build Your Own Shell using Rust",
+      "description": "Build Your Own Shell using Rust",
+      "link": "https://www.joshmcguigan.com/blog/build-your-own-shell-rust/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Shell",
+      "translated-name": "Construa seu próprio shell usando Rust",
+      "translated-description": "Construa seu próprio shell usando Rust",
+      "translated-category": "Concha",
+      "dificulty": "Hard",
+      "id": 259
+    },
+    {
+      "name": "JavaScript template engine in just 20 lines",
+      "description": "JavaScript template engine in just 20 lines",
+      "link": "http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Template Engine",
+      "translated-name": "Mecanismo de modelo JavaScript em apenas 20 linhas",
+      "translated-description": "Mecanismo de modelo JavaScript em apenas 20 linhas",
+      "translated-category": "Mecanismo de modelo",
+      "dificulty": "Medium",
+      "id": 260
+    },
+    {
+      "name": "Understanding JavaScript Micro-Templating",
+      "description": "Understanding JavaScript Micro-Templating",
+      "link": "https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Template Engine",
+      "translated-name": "Compreendendo a micromodelagem JavaScript",
+      "translated-description": "Compreendendo a micromodelagem JavaScript",
+      "translated-category": "Mecanismo de modelo",
+      "dificulty": "Medium",
+      "id": 261
+    },
+    {
+      "name": "Approach: Building a toy template engine in Python",
+      "description": "Approach: Building a toy template engine in Python",
+      "link": "http://alexmic.net/building-a-template-engine/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Template Engine",
+      "translated-name": "Abordagem: Construindo um mecanismo de modelo de brinquedo em Python",
+      "translated-description": "Abordagem: Construindo um mecanismo de modelo de brinquedo em Python",
+      "translated-category": "Mecanismo de modelo",
+      "dificulty": "Easy",
+      "id": 262
+    },
+    {
+      "name": "A Template Engine",
+      "description": "A Template Engine",
+      "link": "http://aosabook.org/en/500L/a-template-engine.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Template Engine",
+      "translated-name": "Um mecanismo de modelo",
+      "translated-description": "Um mecanismo de modelo",
+      "translated-category": "Mecanismo de modelo",
+      "dificulty": "Easy",
+      "id": 263
+    },
+    {
+      "name": "How to write a template engine in less than 30 lines of code",
+      "description": "How to write a template engine in less than 30 lines of code",
+      "link": "http://bits.citrusbyte.com/how-to-write-a-template-library/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Template Engine",
+      "translated-name": "Como escrever um mecanismo de modelo em menos de 30 linhas de código",
+      "translated-description": "Como escrever um mecanismo de modelo em menos de 30 linhas de código",
+      "translated-category": "Mecanismo de modelo",
+      "dificulty": "Easy",
+      "id": 264
+    },
+    {
+      "name": "Build Your Own Text Editor",
+      "description": "Build Your Own Text Editor",
+      "link": "https://viewsourcecode.org/snaptoken/kilo/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Text Editor",
+      "translated-name": "Crie seu próprio editor de texto",
+      "translated-description": "Crie seu próprio editor de texto",
+      "translated-category": "Editor de texto",
+      "dificulty": "Hard",
+      "id": 265
+    },
+    {
+      "name": "Designing a Simple Text Editor",
+      "description": "Designing a Simple Text Editor",
+      "link": "http://www.fltk.org/doc-1.1/editor.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Text Editor",
+      "translated-name": "Projetando um editor de texto simples",
+      "translated-description": "Projetando um editor de texto simples",
+      "translated-category": "Editor de texto",
+      "dificulty": "Medium",
+      "id": 266
+    },
+    {
+      "name": "Python Tutorial: Make Your Own Text Editor",
+      "description": "Python Tutorial: Make Your Own Text Editor",
+      "link": "https://www.youtube.com/watch?v=xqDonHEYPgA",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Text Editor",
+      "translated-name": "Tutorial Python: crie seu próprio editor de texto",
+      "translated-description": "Tutorial Python: crie seu próprio editor de texto",
+      "translated-category": "Editor de texto",
+      "dificulty": "Easy",
+      "id": 267
+    },
+    {
+      "name": "Create a Simple Python Text Editor!",
+      "description": "Create a Simple Python Text Editor!",
+      "link": "http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Text Editor",
+      "translated-name": "Crie um editor de texto simples em Python!",
+      "translated-description": "Crie um editor de texto simples em Python!",
+      "translated-category": "Editor de texto",
+      "dificulty": "Easy",
+      "id": 268
+    },
+    {
+      "name": "Build a Collaborative Text Editor Using Rails",
+      "description": "Build a Collaborative Text Editor Using Rails",
+      "link": "https://blog.aha.io/text-editor/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Text Editor",
+      "translated-name": "Construa um editor de texto colaborativo usando Rails",
+      "translated-description": "Construa um editor de texto colaborativo usando Rails",
+      "translated-category": "Editor de texto",
+      "dificulty": "Easy",
+      "id": 269
+    },
+    {
+      "name": "Developing a License Plate Recognition System with Machine Learning in Python",
+      "description": "Developing a License Plate Recognition System with Machine Learning in Python",
+      "link": "https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Visual Recognition System",
+      "translated-name": "Desenvolvendo um sistema de reconhecimento de placas de veículos com aprendizado de máquina em Python",
+      "translated-description": "Desenvolvendo um sistema de reconhecimento de placas de veículos com aprendizado de máquina em Python",
+      "translated-category": "Sistema de reconhecimento visual",
+      "dificulty": "Easy",
+      "id": 270
+    },
+    {
+      "name": "Building a Facial Recognition Pipeline with Deep Learning in Tensorflow",
+      "description": "Building a Facial Recognition Pipeline with Deep Learning in Tensorflow",
+      "link": "https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Visual Recognition System",
+      "translated-name": "Construindo um pipeline de reconhecimento facial com aprendizado profundo no Tensorflow",
+      "translated-description": "Construindo um pipeline de reconhecimento facial com aprendizado profundo no Tensorflow",
+      "translated-category": "Sistema de reconhecimento visual",
+      "dificulty": "Medium",
+      "id": 271
+    },
+    {
+      "name": "Let's Make a Voxel Engine",
+      "description": "Let's Make a Voxel Engine",
+      "link": "https://sites.google.com/site/letsmakeavoxelengine/home",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Voxel Engine",
+      "translated-name": "Vamos fazer um motor Voxel",
+      "translated-description": "Vamos fazer um motor Voxel",
+      "translated-category": "Motor Voxel",
+      "dificulty": "Hard",
+      "id": 272
+    },
+    {
+      "name": "Let's build a browser engine",
+      "description": "Let's build a browser engine",
+      "link": "https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Web Browser",
+      "translated-name": "Vamos construir um mecanismo de navegador",
+      "translated-description": "Vamos construir um mecanismo de navegador",
+      "translated-category": "Navegador da Web",
+      "dificulty": "Medium",
+      "id": 273
+    },
+    {
+      "name": "Browser Engineering",
+      "description": "Browser Engineering",
+      "link": "https://browser.engineering",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Browser",
+      "translated-name": "Engenharia de navegador",
+      "translated-description": "Engenharia de navegador",
+      "translated-category": "Navegador da Web",
+      "dificulty": "Easy",
+      "id": 274
+    },
+    {
+      "name": "Writing a Web Server from Scratch",
+      "description": "Writing a Web Server from Scratch",
+      "link": "https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um servidor Web do zero",
+      "translated-description": "Escrevendo um servidor Web do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 275
+    },
+    {
+      "name": "Build Your Own Web Server From Scratch In JavaScript",
+      "description": "Build Your Own Web Server From Scratch In JavaScript",
+      "link": "https://build-your-own.org/webserver/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa seu próprio servidor Web do zero em JavaScript",
+      "translated-description": "Construa seu próprio servidor Web do zero em JavaScript",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 276
+    },
+    {
+      "name": "Let's code a web server from scratch with NodeJS Streams",
+      "description": "Let's code a web server from scratch with NodeJS Streams",
+      "link": "https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Vamos codificar um servidor web do zero com NodeJS Streams",
+      "translated-description": "Vamos codificar um servidor web do zero com NodeJS Streams",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 277
+    },
+    {
+      "name": "lets-build-express",
+      "description": "lets-build-express",
+      "link": "https://github.com/antoaravinth/lets-build-express",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "vamos construir-expressar",
+      "translated-description": "vamos construir-expressar",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 278
+    },
+    {
+      "name": "Writing a webserver in pure PHP",
+      "description": "Writing a webserver in pure PHP",
+      "link": "http://station.clancats.com/writing-a-webserver-in-pure-php/",
+      "programing-language": [
+        "PHP"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um servidor web em PHP puro",
+      "translated-description": "Escrevendo um servidor web em PHP puro",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 279
+    },
+    {
+      "name": "A Simple Web Server",
+      "description": "A Simple Web Server",
+      "link": "http://aosabook.org/en/500L/a-simple-web-server.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Um servidor web simples",
+      "translated-description": "Um servidor web simples",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 280
+    },
+    {
+      "name": "Let’s Build A Web Server.",
+      "description": "Let’s Build A Web Server.",
+      "link": "https://ruslanspivak.com/lsbaws-part1/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Vamos construir um servidor web.",
+      "translated-description": "Vamos construir um servidor web.",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 281
+    },
+    {
+      "name": "Web application from scratch",
+      "description": "Web application from scratch",
+      "link": "https://defn.io/2018/02/25/web-app-from-scratch-01/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Aplicativo web do zero",
+      "translated-description": "Aplicativo web do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 282
+    },
+    {
+      "name": "Building a basic HTTP Server from scratch in Python",
+      "description": "Building a basic HTTP Server from scratch in Python",
+      "link": "http://joaoventura.net/blog/2017/python-webserver/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um servidor HTTP básico do zero em Python",
+      "translated-description": "Construindo um servidor HTTP básico do zero em Python",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 283
+    },
+    {
+      "name": "Implementing a RESTful Web API with Python & Flask",
+      "description": "Implementing a RESTful Web API with Python & Flask",
+      "link": "http://blog.luisrei.com/articles/flaskrest.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Implementando uma API Web RESTful com Python e Flask",
+      "translated-description": "Implementando uma API Web RESTful com Python e Flask",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 284
+    },
+    {
+      "name": "Building a simple websockets server from scratch in Ruby",
+      "description": "Building a simple websockets server from scratch in Ruby",
+      "link": "http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um servidor websockets simples do zero em Ruby",
+      "translated-description": "Construindo um servidor websockets simples do zero em Ruby",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 285
+    },
+    {
+      "name": "From NAND to Tetris: Building a Modern Computer From First Principles",
+      "description": "From NAND to Tetris: Building a Modern Computer From First Principles",
+      "link": "http://nand2tetris.org/",
+      "programing-language": [
+        "(any)"
+      ],
+      "category": "Web Server",
+      "translated-name": "Do NAND ao Tetris: construindo um computador moderno a partir dos primeiros princípios",
+      "translated-description": "Do NAND ao Tetris: construindo um computador moderno a partir dos primeiros princípios",
+      "translated-category": "Servidor Web",
+      "dificulty": "Easy",
+      "id": 286
+    },
+    {
+      "name": "The Same-Origin Policy",
+      "description": "The Same-Origin Policy",
+      "link": "http://aosabook.org/en/500L/the-same-origin-policy.html",
+      "programing-language": [
+        "Alloy"
+      ],
+      "category": "Web Server",
+      "translated-name": "A Política de Mesma Origem",
+      "translated-description": "A Política de Mesma Origem",
+      "translated-category": "Servidor Web",
+      "dificulty": "Easy",
+      "id": 287
+    },
+    {
+      "name": "How to Write a Video Player in Less Than 1000 Lines",
+      "description": "How to Write a Video Player in Less Than 1000 Lines",
+      "link": "http://dranger.com/ffmpeg/ffmpeg.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como escrever um player de vídeo com menos de 1.000 linhas",
+      "translated-description": "Como escrever um player de vídeo com menos de 1.000 linhas",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 288
+    },
+    {
+      "name": "Learn how to write a hash table in C",
+      "description": "Learn how to write a hash table in C",
+      "link": "https://github.com/jamesroutley/write-a-hash-table",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Web Server",
+      "translated-name": "Aprenda a escrever uma tabela hash em C",
+      "translated-description": "Aprenda a escrever uma tabela hash em C",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 289
+    },
+    {
+      "name": "The very basics of a terminal emulator",
+      "description": "The very basics of a terminal emulator",
+      "link": "https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Web Server",
+      "translated-name": "O básico de um emulador de terminal",
+      "translated-description": "O básico de um emulador de terminal",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 290
+    },
+    {
+      "name": "Write a System Call",
+      "description": "Write a System Call",
+      "link": "https://brennan.io/2016/11/14/kernel-dev-ep3/",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escreva uma chamada de sistema",
+      "translated-description": "Escreva uma chamada de sistema",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 291
+    },
+    {
+      "name": "Sol - An MQTT broker from scratch",
+      "description": "Sol - An MQTT broker from scratch",
+      "link": "https://codepr.github.io/posts/sol-mqtt-broker",
+      "programing-language": [
+        "C"
+      ],
+      "category": "Web Server",
+      "translated-name": "Sol – Um corretor MQTT do zero",
+      "translated-description": "Sol – Um corretor MQTT do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 292
+    },
+    {
+      "name": "Build your own VR headset for $200",
+      "description": "Build your own VR headset for $200",
+      "link": "https://github.com/relativty/Relativ",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa seu próprio headset VR por US$ 200",
+      "translated-description": "Construa seu próprio headset VR por US$ 200",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 293
+    },
+    {
+      "name": "How X Window Managers work and how to write one",
+      "description": "How X Window Managers work and how to write one",
+      "link": "https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como funcionam os X Window Managers e como escrever um",
+      "translated-description": "Como funcionam os X Window Managers e como escrever um",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 294
+    },
+    {
+      "name": "Writing a Linux Debugger",
+      "description": "Writing a Linux Debugger",
+      "link": "https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um depurador Linux",
+      "translated-description": "Escrevendo um depurador Linux",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 295
+    },
+    {
+      "name": "How a 64k intro is made",
+      "description": "How a 64k intro is made",
+      "link": "http://www.lofibucket.com/articles/64k_intro.html",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como é feita uma introdução de 64k",
+      "translated-description": "Como é feita uma introdução de 64k",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 296
+    },
+    {
+      "name": "Make your own Game Engine",
+      "description": "Make your own Game Engine",
+      "link": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT",
+      "programing-language": [
+        "C++"
+      ],
+      "category": "Web Server",
+      "translated-name": "Faça seu próprio mecanismo de jogo",
+      "translated-description": "Faça seu próprio mecanismo de jogo",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 297
+    },
+    {
+      "name": "C# Networking: Create a TCP chater server, TCP games, UDP Pong and more",
+      "description": "C# Networking: Create a TCP chater server, TCP games, UDP Pong and more",
+      "link": "https://16bpp.net/tutorials/csharp-networking",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Web Server",
+      "translated-name": "Rede C#: Crie um servidor de bate-papo TCP, jogos TCP, UDP Pong e muito mais",
+      "translated-description": "Rede C#: Crie um servidor de bate-papo TCP, jogos TCP, UDP Pong e muito mais",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 298
+    },
+    {
+      "name": "Loading and rendering 3D skeletal animations from scratch in C# and GLSL",
+      "description": "Loading and rendering 3D skeletal animations from scratch in C# and GLSL",
+      "link": "https://www.seanjoflynn.com/research/skeletal-animation.html",
+      "programing-language": [
+        "C#"
+      ],
+      "category": "Web Server",
+      "translated-name": "Carregando e renderizando animações esqueléticas 3D do zero em C# e GLSL",
+      "translated-description": "Carregando e renderizando animações esqueléticas 3D do zero em C# e GLSL",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 299
+    },
+    {
+      "name": "Building a spell-checker",
+      "description": "Building a spell-checker",
+      "link": "https://bernhardwenzel.com/articles/clojure-spellchecker/",
+      "programing-language": [
+        "Clojure"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um corretor ortográfico",
+      "translated-description": "Construindo um corretor ortográfico",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 300
+    },
+    {
+      "name": "Build A Simple Terminal Emulator In 100 Lines of Golang",
+      "description": "Build A Simple Terminal Emulator In 100 Lines of Golang",
+      "link": "https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa um emulador de terminal simples em 100 linhas de Golang",
+      "translated-description": "Construa um emulador de terminal simples em 100 linhas de Golang",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 301
+    },
+    {
+      "name": "Let's Create a Simple Load Balancer",
+      "description": "Let's Create a Simple Load Balancer",
+      "link": "https://kasvith.me/posts/lets-create-a-simple-lb-go/",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Web Server",
+      "translated-name": "Vamos criar um balanceador de carga simples",
+      "translated-description": "Vamos criar um balanceador de carga simples",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 302
+    },
+    {
+      "name": "Video Encoding from Scratch",
+      "description": "Video Encoding from Scratch",
+      "link": "https://github.com/kevmo314/codec-from-scratch",
+      "programing-language": [
+        "Go"
+      ],
+      "category": "Web Server",
+      "translated-name": "Codificação de vídeo do zero",
+      "translated-description": "Codificação de vídeo do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 303
+    },
+    {
+      "name": "How to Build an Android Reddit App",
+      "description": "How to Build an Android Reddit App",
+      "link": "https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y",
+      "programing-language": [
+        "Java"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como construir um aplicativo Reddit para Android",
+      "translated-description": "Como construir um aplicativo Reddit para Android",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 304
+    },
+    {
+      "name": "Build Your Own Module Bundler - Minipack",
+      "description": "Build Your Own Module Bundler - Minipack",
+      "link": "https://github.com/ronami/minipack",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa seu próprio empacotador de módulos - Minipack",
+      "translated-description": "Construa seu próprio empacotador de módulos - Minipack",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 305
+    },
+    {
+      "name": "Learn JavaScript Promises by Building a Promise from Scratch",
+      "description": "Learn JavaScript Promises by Building a Promise from Scratch",
+      "link": "https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Aprenda promessas de JavaScript construindo uma promessa do zero",
+      "translated-description": "Aprenda promessas de JavaScript construindo uma promessa do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 306
+    },
+    {
+      "name": "Implementing promises from scratch (TDD way)",
+      "description": "Implementing promises from scratch (TDD way)",
+      "link": "https://www.mauriciopoppe.com/notes/computer-science/computation/promises/",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Implementando promessas do zero (modo TDD)",
+      "translated-description": "Implementando promessas do zero (modo TDD)",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 307
+    },
+    {
+      "name": "Implement your own — call(), apply() and bind() method in JavaScript",
+      "description": "Implement your own — call(), apply() and bind() method in JavaScript",
+      "link": "https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Implemente seus próprios métodos call(), apply() e bind() em JavaScript",
+      "translated-description": "Implemente seus próprios métodos call(), apply() e bind() em JavaScript",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 308
+    },
+    {
+      "name": "JavaScript Algorithms and Data Structures",
+      "description": "JavaScript Algorithms and Data Structures",
+      "link": "https://github.com/trekhleb/javascript-algorithms",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Algoritmos JavaScript e estruturas de dados",
+      "translated-description": "Algoritmos JavaScript e estruturas de dados",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 309
+    },
+    {
+      "name": "Build a ride hailing app with React Native",
+      "description": "Build a ride hailing app with React Native",
+      "link": "https://pusher.com/tutorials/ride-hailing-react-native",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Crie um aplicativo de carona com React Native",
+      "translated-description": "Crie um aplicativo de carona com React Native",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 310
+    },
+    {
+      "name": "Build Your Own AdBlocker in (Literally) 10 Minutes",
+      "description": "Build Your Own AdBlocker in (Literally) 10 Minutes",
+      "link": "https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd",
+      "programing-language": [
+        "JavaScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Crie seu próprio AdBlocker em (literalmente) 10 minutos",
+      "translated-description": "Crie seu próprio AdBlocker em (literalmente) 10 minutos",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 311
+    },
+    {
+      "name": "Build Your Own Cache",
+      "description": "Build Your Own Cache",
+      "link": "https://github.com/kezhenxu94/cache-lite",
+      "programing-language": [
+        "Kotlin"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa seu próprio cache",
+      "translated-description": "Construa seu próprio cache",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 312
+    },
+    {
+      "name": "Building a CDN from Scratch to Learn about CDN",
+      "description": "Building a CDN from Scratch to Learn about CDN",
+      "link": "https://github.com/leandromoreira/cdn-up-and-running",
+      "programing-language": [
+        "Lua"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um CDN do zero para aprender sobre o CDN",
+      "translated-description": "Construindo um CDN do zero para aprender sobre o CDN",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 313
+    },
+    {
+      "name": "Writing a Redis Protocol Parser",
+      "description": "Writing a Redis Protocol Parser",
+      "link": "https://xmonader.github.io/nimdays/day12_resp.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um analisador de protocolo Redis",
+      "translated-description": "Escrevendo um analisador de protocolo Redis",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 314
+    },
+    {
+      "name": "Writing a Build system",
+      "description": "Writing a Build system",
+      "link": "https://xmonader.github.io/nimdays/day11_buildsystem.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um sistema Build",
+      "translated-description": "Escrevendo um sistema Build",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 315
+    },
+    {
+      "name": "Writing a MiniTest Framework",
+      "description": "Writing a MiniTest Framework",
+      "link": "https://xmonader.github.io/nimdays/day08_minitest.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo uma estrutura MiniTest",
+      "translated-description": "Escrevendo uma estrutura MiniTest",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 316
+    },
+    {
+      "name": "Writing a DMIDecode Parser",
+      "description": "Writing a DMIDecode Parser",
+      "link": "https://xmonader.github.io/nimdays/day01_dmidecode.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um analisador DMIDecode",
+      "translated-description": "Escrevendo um analisador DMIDecode",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 317
+    },
+    {
+      "name": "Writing a INI Parser",
+      "description": "Writing a INI Parser",
+      "link": "https://xmonader.github.io/nimdays/day05_iniparser.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um analisador INI",
+      "translated-description": "Escrevendo um analisador INI",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 318
+    },
+    {
+      "name": "Writing a Link Checker",
+      "description": "Writing a Link Checker",
+      "link": "https://xmonader.github.io/nimdays/day04_asynclinkschecker.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um verificador de link",
+      "translated-description": "Escrevendo um verificador de link",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 319
+    },
+    {
+      "name": "Writing a URL Shortening Service",
+      "description": "Writing a URL Shortening Service",
+      "link": "https://xmonader.github.io/nimdays/day07_shorturl.html",
+      "programing-language": [
+        "Nim"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um serviço de encurtamento de URL",
+      "translated-description": "Escrevendo um serviço de encurtamento de URL",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 320
+    },
+    {
+      "name": "Build a static site generator in 40 lines with Node.js",
+      "description": "Build a static site generator in 40 lines with Node.js",
+      "link": "https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa um gerador de site estático em 40 linhas com Node.js",
+      "translated-description": "Construa um gerador de site estático em 40 linhas com Node.js",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 321
+    },
+    {
+      "name": "Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.",
+      "description": "Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.",
+      "link": "https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um servidor e uma solução simples de login único (SSO) do zero em Node.js.",
+      "translated-description": "Construindo um servidor e uma solução simples de login único (SSO) do zero em Node.js.",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 322
+    },
+    {
+      "name": "How to create a real-world Node CLI app with Node",
+      "description": "How to create a real-world Node CLI app with Node",
+      "link": "https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como criar um aplicativo Node CLI do mundo real com Node",
+      "translated-description": "Como criar um aplicativo Node CLI do mundo real com Node",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 323
+    },
+    {
+      "name": "Build a DNS Server in Node.js",
+      "description": "Build a DNS Server in Node.js",
+      "link": "https://engineerhead.github.io/dns-server/",
+      "programing-language": [
+        "Node.js"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa um servidor DNS em Node.js",
+      "translated-description": "Construa um servidor DNS em Node.js",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 324
+    },
+    {
+      "name": "Make your own blog",
+      "description": "Make your own blog",
+      "link": "https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog",
+      "programing-language": [
+        "PHP"
+      ],
+      "category": "Web Server",
+      "translated-name": "Faça seu próprio blog",
+      "translated-description": "Faça seu próprio blog",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 325
+    },
+    {
+      "name": "Modern PHP Without a Framework",
+      "description": "Modern PHP Without a Framework",
+      "link": "https://kevinsmith.io/modern-php-without-a-framework",
+      "programing-language": [
+        "PHP"
+      ],
+      "category": "Web Server",
+      "translated-name": "PHP moderno sem framework",
+      "translated-description": "PHP moderno sem framework",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 326
+    },
+    {
+      "name": "Code a Web Search Engine in PHP",
+      "description": "Code a Web Search Engine in PHP",
+      "link": "https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/",
+      "programing-language": [
+        "PHP"
+      ],
+      "category": "Web Server",
+      "translated-name": "Codifique um mecanismo de pesquisa na Web em PHP",
+      "translated-description": "Codifique um mecanismo de pesquisa na Web em PHP",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 327
+    },
+    {
+      "name": "Build a Deep Learning Library",
+      "description": "Build a Deep Learning Library",
+      "link": "https://www.youtube.com/watch?v=o64FV-ez6Gw",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construa uma biblioteca de aprendizagem profunda",
+      "translated-description": "Construa uma biblioteca de aprendizagem profunda",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 328
+    },
+    {
+      "name": "How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes",
+      "description": "How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes",
+      "link": "https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Como construir um scanner de documentos móvel incrível em apenas 5 minutos",
+      "translated-description": "Como construir um scanner de documentos móvel incrível em apenas 5 minutos",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 329
+    },
+    {
+      "name": "Continuous Integration System",
+      "description": "Continuous Integration System",
+      "link": "http://aosabook.org/en/500L/a-continuous-integration-system.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Sistema de Integração Contínua",
+      "translated-description": "Sistema de Integração Contínua",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 330
+    },
+    {
+      "name": "Recommender Systems in Python: Beginner Tutorial",
+      "description": "Recommender Systems in Python: Beginner Tutorial",
+      "link": "https://www.datacamp.com/community/tutorials/recommender-systems-python",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Sistemas de recomendação em Python: tutorial para iniciantes",
+      "translated-description": "Sistemas de recomendação em Python: tutorial para iniciantes",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 331
+    },
+    {
+      "name": "Write SMS-spam detector with Scikit-learn",
+      "description": "Write SMS-spam detector with Scikit-learn",
+      "link": "https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escreva detector de spam de SMS com Scikit-learn",
+      "translated-description": "Escreva detector de spam de SMS com Scikit-learn",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 332
+    },
+    {
+      "name": "A Simple Content-Based Recommendation Engine in Python",
+      "description": "A Simple Content-Based Recommendation Engine in Python",
+      "link": "http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Um mecanismo de recomendação simples baseado em conteúdo em Python",
+      "translated-description": "Um mecanismo de recomendação simples baseado em conteúdo em Python",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 333
+    },
+    {
+      "name": "Stock Market Predictions with LSTM in Python",
+      "description": "Stock Market Predictions with LSTM in Python",
+      "link": "https://www.datacamp.com/community/tutorials/lstm-python-stock-market",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Previsões do mercado de ações com LSTM em Python",
+      "translated-description": "Previsões do mercado de ações com LSTM em Python",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 334
+    },
+    {
+      "name": "Building a simple Generative Adversarial Network (GAN) using Tensorflow",
+      "description": "Building a simple Generative Adversarial Network (GAN) using Tensorflow",
+      "link": "https://blog.paperspace.com/implementing-gans-in-tensorflow/",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo uma Rede Adversarial Generativa (GAN) simples usando Tensorflow",
+      "translated-description": "Construindo uma Rede Adversarial Generativa (GAN) simples usando Tensorflow",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 335
+    },
+    {
+      "name": "Learn ML Algorithms by coding: Decision Trees",
+      "description": "Learn ML Algorithms by coding: Decision Trees",
+      "link": "https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Aprenda algoritmos de ML codificando: árvores de decisão",
+      "translated-description": "Aprenda algoritmos de ML codificando: árvores de decisão",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 336
+    },
+    {
+      "name": "JSON Decoding Algorithm",
+      "description": "JSON Decoding Algorithm",
+      "link": "https://github.com/cheery/json-algorithm",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Algoritmo de decodificação JSON",
+      "translated-description": "Algoritmo de decodificação JSON",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 337
+    },
+    {
+      "name": "Build your own Git plugin with python",
+      "description": "Build your own Git plugin with python",
+      "link": "https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin",
+      "programing-language": [
+        "Python"
+      ],
+      "category": "Web Server",
+      "translated-name": "Crie seu próprio plugin Git com python",
+      "translated-description": "Crie seu próprio plugin Git com python",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 338
+    },
+    {
+      "name": "A Pedometer in the Real World",
+      "description": "A Pedometer in the Real World",
+      "link": "http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Web Server",
+      "translated-name": "Um pedômetro no mundo real",
+      "translated-description": "Um pedômetro no mundo real",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 339
+    },
+    {
+      "name": "Creating a Linux Desktop application with Ruby",
+      "description": "Creating a Linux Desktop application with Ruby",
+      "link": "https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby",
+      "programing-language": [
+        "Ruby"
+      ],
+      "category": "Web Server",
+      "translated-name": "Criando um aplicativo Linux Desktop com Ruby",
+      "translated-description": "Criando um aplicativo Linux Desktop com Ruby",
+      "translated-category": "Servidor Web",
+      "dificulty": "Medium",
+      "id": 340
+    },
+    {
+      "name": "Building a DNS server in Rust",
+      "description": "Building a DNS server in Rust",
+      "link": "https://github.com/EmilHernvall/dnsguide/blob/master/README.md",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Web Server",
+      "translated-name": "Construindo um servidor DNS em Rust",
+      "translated-description": "Construindo um servidor DNS em Rust",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 341
+    },
+    {
+      "name": "Writing Scalable Chat Service from Scratch",
+      "description": "Writing Scalable Chat Service from Scratch",
+      "link": "https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Web Server",
+      "translated-name": "Escrevendo um serviço de bate-papo escalonável do zero",
+      "translated-description": "Escrevendo um serviço de bate-papo escalonável do zero",
+      "translated-category": "Servidor Web",
+      "dificulty": "Insane",
+      "id": 342
+    },
+    {
+      "name": "WebGL + Rust: Basic Water Tutorial",
+      "description": "WebGL + Rust: Basic Water Tutorial",
+      "link": "https://www.chinedufn.com/3d-webgl-basic-water-tutorial/",
+      "programing-language": [
+        "Rust"
+      ],
+      "category": "Web Server",
+      "translated-name": "WebGL + Rust: tutorial básico sobre água",
+      "translated-description": "WebGL + Rust: tutorial básico sobre água",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 343
+    },
+    {
+      "name": "Tiny Package Manager: Learns how npm or Yarn works",
+      "description": "Tiny Package Manager: Learns how npm or Yarn works",
+      "link": "https://github.com/g-plane/tiny-package-manager",
+      "programing-language": [
+        "TypeScript"
+      ],
+      "category": "Web Server",
+      "translated-name": "Gerenciador de pacotes minúsculos: aprende como funciona o npm ou o Yarn",
+      "translated-description": "Gerenciador de pacotes minúsculos: aprende como funciona o npm ou o Yarn",
+      "translated-category": "Servidor Web",
+      "dificulty": "Hard",
+      "id": 344
+    }
+  ]
+}
