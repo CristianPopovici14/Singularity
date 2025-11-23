@@ -30,7 +30,7 @@ Este projeto nasceu na **10ª Imersão Dev Alura**, com o objetivo de reunir, or
 
 ---
 
-## 💡 **Por que esse projeto importa?**
+## 💡 **Por que o projeto importa?**
 <img width="1024" height="582" alt="'What I cannot creat I do not understand' - Richard Fynmen" src="https://github.com/user-attachments/assets/d0603829-b02e-43ff-bb86-2127068a319c" />
 
 Porque aprender programação é também se inspirar, e entender como tudo funciona.
@@ -56,7 +56,7 @@ O projeto continua evoluindo! Entre as melhorias planejadas:
 * 📌 Sistema de tags inteligentes
 * 📌 Trilhas (Grupo de Projetos)
 * 📌 Integração de mais projetos com IA
-* 📌 Uma página com a listagem de todos os projetos unidos pelos friltros que os compoem (algo parecido com FTB Quests)
+* 📌 Uma página com a listagem de todos os projetos unidos pelos filtros que os compoẽm (algo parecido com FTB Quests)
 
 ---
 
