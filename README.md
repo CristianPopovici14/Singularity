@@ -1,6 +1,8 @@
 <img width="977" height="188" alt="Singularity" src="https://github.com/user-attachments/assets/2e8d1b27-4a89-4af6-93a4-d9acfdfae4b4" />
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
 ![Made with ❤️](https://img.shields.io/badge/made%20with-love-red)
 
 ### *Uma base de conhecimento de projetos extraordinários, criada na 10ª Imersão Alura*
