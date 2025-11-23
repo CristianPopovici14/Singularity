@@ -1,5 +1,5 @@
 <img width="977" height="188" alt="Screenshot From 2025-11-23 20-14-12" src="https://github.com/user-attachments/assets/2e8d1b27-4a89-4af6-93a4-d9acfdfae4b4" />
-<br>
+
 > Projeto Alura 🎓 – “Base de Conhecimento de Projetos Extraordinários”
 
 ### *Uma base de conhecimento de projetos extraordinários, criada na 10ª Imersão Alura*
