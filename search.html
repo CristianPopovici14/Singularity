@@ -1,11 +1,30 @@
 <!DOCTYPE html>
+<!--
+  search.html
+  -----------
+  Search results page for the Singularity project.
+
+  Notes for maintainers:
+  - The page expects `search.js` to read the query string `q` or
+    `filter` and to fetch `projects.json` from the same folder.
+  - Keep the `#header-search` and `#footer-search` form ids in sync
+    with `search.js` selectors.
+-->
 <html lang="pt-br">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Singularity Search</title>
+  <title>Singularity <Search></Search>
+  </title>
+
+  <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="./media/favicon2.png" type="image/x-icon">
+
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="search-style.css">
 </head>
 
@@ -15,7 +34,7 @@
   </video>
 
   <header>
-    <div class="flex items-center gap-6 px-8 py-4">
+    <div class="hidden flex-wrap sm:flex items-center gap-6 px-8 py-4">
       <div class="flex items-center gap-3">
         <a href="index.html" class="flex items-center">
           <img src="./media/favicon2.png" class="w-10 h-10 rounded-full mr-2" alt="Logo">
@@ -24,29 +43,63 @@
       </div>
       <div class="flex-1 max-w-2xl">
         <div class="search-box rounded-full px-6 py-3 flex items-center gap-4">
-          <button onclick="performSearch()" class="hover:opacity-70 transition-opacity">
-            <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
-          </button>
-          <input type="text" id="searchInput" class="flex-1 bg-transparent outline-none text-base"
-            placeholder="Ciência disponível para todos" />
+          <form id="header-search" class="rounded-full flex items-center gap-4 w-full">
+
+            <!-- Botão de Pesquisa -->
+            <button type="submit" onclick="textSearch()">
+              <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+
+            <!-- Input -->
+            <input type="text" class="flex-1 text-wrap bg-transparent outline-none text-base"
+              placeholder="Pesquise por linguagens ou tecnologias" />
+          </form>
         </div>
       </div>
     </div>
   </header>
-  <div id="stats" class="z-10 px-8 py-3 text-sm text-gray-400"></div>
+  <div id="stats" class="z-10 text-sm text-gray-400"></div>
 
   <main class="flex-1 z-10 px-8 py-20">
     <div id="results" class="max-w-3xl space-y-6"></div>
   </main>
 
-  <footer class="footer-section z-10">
-    <div class="flex flex-col md:flex-row justify-between px-8 py-3 text-sm gap-4">
-      <div class="flex gap-6">
+  <footer class="footer-section z-10 py-4">
+    <div class="hidden sm:flex justify-between px-6 text-sm gap-3">
+      <div class="flex gap-4">
         <a href="https://github.com/CristianPopovici14" target="_blank" class="hover:underline">Meu GitHub</a>
         <a href="https://cristian-popovici.web.app/" target="_blank" class="hover:underline">Meu Portfólio</a>
-        <a href="https://github.com/CristianPopovici14/Singularity" class="hover:underline">Repositório</a>
+        <a href="#" class="hover:underline">Repositório</a>
+      </div>
+    </div>
+
+    <div class="flex sm:hidden justify-center sm:justify-start items-center gap-2 px-4">
+      <div class="flex items-center gap-3">
+        <a href="index.html" class="flex items-center min-w-10">
+          <img src="./media/favicon2.png" class="w-10 h-10 rounded-full" alt="Logo">
+        </a>
+      </div>
+      <div class="flex-1 max-w-2xl">
+        <div class="search-box rounded-full p-2 pl-4 flex items-center gap-4">
+          <form id="footer-search" class="rounded-full flex items-center gap-4 w-full">
+
+            <!-- Input -->
+            <input type="text" class="flex-1 text-wrap bg-transparent outline-none text-base"
+              placeholder="Pesquise aqui..." />
+
+            <!-- Botão de Pesquisa -->
+            <button type="submit" onclick="textSearch()">
+              <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+
+          </form>
+        </div>
       </div>
     </div>
   </footer>
